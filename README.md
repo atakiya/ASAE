@@ -3,8 +3,8 @@ Repository for my modification "Avali Species and Empire"
 Available for Stellaris on the [Steam Workshop](https://github.com/Avunia/stellaris-ASAE)!
 
 # License
-The source except files under ".ASAE/gfx/models/Avali/" is licensed under the MIT License.  
-All files under ".ASAE/gfx/models/Avali/" are each licensed under their creators license, see the Image credits section below.
+The source, except files under `./ASAE/gfx/models/Avali/`, is licensed under the MIT License.  
+All files under `./ASAE/gfx/models/Avali/` are each licensed under their creators license, see the Image credits section below.
 
 # Credits
 ## [Avali Portraits](https://steamcommunity.com/sharedfiles/filedetails/?id=1286921060) by Cobalt Lightning
