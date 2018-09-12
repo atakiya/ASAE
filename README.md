@@ -2,6 +2,12 @@
 Repository for my modification "Avali Species and Empire"  
 Available for Stellaris on the [Steam Workshop](https://github.com/Avunia/stellaris-ASAE)!
 
+# Contributing
+Simply add a PR with your changes or additions and let the magic happen.  
+Line endings are CR LF. Go nuts though, I can manage.  
+Please do add information on why and how.  
+I will also add any user whose PR gets merged to the credits section as a thanks.
+
 # License
 The source, except files under `./ASAE/gfx/models/Avali/`, is licensed under the MIT License.  
 All files under `./ASAE/gfx/models/Avali/` are each licensed under their creators license, see the Image credits section below.
