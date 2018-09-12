@@ -1,0 +1,14 @@
+﻿l_english:
+
+ # General Greetings
+ FLAG_CATEGORY_avu_avali:0 "Avali"
+
+ AUTHORITY_ELECTION_MERITOCRATIC:1 "Holds an empire-wide election every §H20§! years to select a new Ruler."
+
+ auth_meritocratic:0 "Meritocratic"
+ auth_meritocratic_desc:0 "Meritocratic governments are ruled by a small group of individuals that hold all political power in their own departments, they elect people from all over the empire to ensure that the best efficiency is guranteed."
+ 
+ gov_scientific_meritocracy:0 "Scientific Meritocracy"
+ gov_scientific_meritocracy_desc:0 "§LThis government is a materialistic form of meritocracy, where a committee of rulers supervises the government apparatus for maximum efficiency.§!"
+
+ avali.null:0 ""

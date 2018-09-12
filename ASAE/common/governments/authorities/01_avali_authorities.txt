@@ -1,0 +1,25 @@
+auth_meritocratic = {
+  election_term_years = 20
+	election_type = democratic
+	can_have_emergency_elections = yes
+	emergency_election_cost = 250
+	max_election_candidates = 6
+
+	has_agendas = yes
+	
+	possible = {
+		ethics = {
+			NOR = {
+				value = ethic_gestalt_consciousness
+				value = ethic_fanatic_egalitarian
+				value = ethic_fanatic_authoritarian
+			}
+		}
+	}
+
+  icon = "gfx/interface/icons/governments/authorities/auth_meritocratic.dds"
+	
+	tags = {
+		AUTHORITY_ELECTION_MERITOCRATIC
+	}
+}

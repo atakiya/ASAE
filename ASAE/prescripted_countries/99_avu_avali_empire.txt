@@ -1,0 +1,63 @@
+"Avali Illuminate" = {
+	name = "Avali Illuminate"
+	adjective = "Avali"
+	spawn_enabled = yes
+
+	ship_prefix = "AVL"
+	
+	species = {
+		class = "Avali"
+		portrait = "avali"
+		name = "Avali"
+		plural = "Avali"
+		adjective = "Avali"
+		name_list = "AVI4"
+		trait = "trait_nomadic"
+		trait = "trait_intelligent"
+		trait = "trait_communal"
+		trait = "trait_nonadaptive"
+	}
+
+	room = "personality_erudite_explorers_room"
+	
+	authority = "auth_oligarchic"
+	civics = { "civic_functional_architecture" "civic_technocracy" }
+	government = "gov_science_directorate"
+	
+	ethic = "ethic_xenophobe"
+	ethic = "ethic_fanatic_materialist"
+
+	planet_name = "Avalon"
+	planet_class = "pc_arctic"
+	system_name = "Avertica"
+
+	graphical_culture = "reptilian_01"
+	city_graphical_culture = "reptilian_01"
+	
+	empire_flag = {
+		icon= {
+			category = "avu_avali"
+			file = "avaliemblem.dds"
+		}
+		background= {
+			category = "backgrounds"
+			file = "00_solid.dds"
+		}
+		colors={
+			"grey"
+			"light_orange"
+			"null"
+			"null"
+		}
+	}
+
+	ruler = {
+		name = "Avunia Falles Divum"
+		gender = male
+		portrait = "avali08"
+		texture = 0
+		hair = 0
+		clothes = 0
+		ruler_title = "Council Superviser"
+	}
+}
