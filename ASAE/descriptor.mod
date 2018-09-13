@@ -1,5 +1,5 @@
 name="Avali Species and Empire"
-path="mod/avu_species_avali"
+path="mod/ASAE"
 tags={
 	"Species"
 }

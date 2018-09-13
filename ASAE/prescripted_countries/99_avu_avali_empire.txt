@@ -3,7 +3,7 @@
 	adjective = "Avali"
 	spawn_enabled = yes
 
-	ship_prefix = "AVL"
+	ship_prefix = "AVLS"
 	
 	species = {
 		class = "Avali"
