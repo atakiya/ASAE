@@ -1,14 +1,9 @@
 ﻿l_german:
+ # Species Classes
+ AVALI:0 "Avali"
+ AVALI_plural:0 "Avali"
 
- # General Greetings
+ # Flags
  FLAG_CATEGORY_avu_avali:0 "Avali"
-
- AUTHORITY_ELECTION_MERITOCRATIC:1 "Holds an empire-wide election every §H20§! years to select a new Ruler."
-
- auth_meritocratic:0 "Meritokratie"
- auth_meritocratic_desc:0 "Meritokratie Regierungen werden von einer kleinen Gruppe Individuen beherrscht, auf die sich die gesamte politische Macht konzentriert, jedoch wählen sie Leute aus dem gesamten Reich um die am besten zu passenden Mitglieder zu finden."
- 
- gov_scientific_meritocracy:0 "Wissenschaftliche Meritokratie"
- gov_scientific_meritocracy_desc:0 "Diese Regierung ist eine materialistische Form der Meritokratie, in der ein Komitee von den besten der besten den Regierungsapparat auf maximale Effizienz überwacht."
 
  avali.null:0 ""
