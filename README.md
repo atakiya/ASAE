@@ -1,9 +1,10 @@
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
 
 # Stellaris-ASAE
 Repository for my modification "Avali Species and Empire"  
-Available for Stellaris on the [Steam Workshop](https://github.com/Avunia/stellaris-ASAE)!
+Available for Stellaris on the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1386947071)!
 
 # Contributing
 Simply add a PR with your changes or additions and let the magic happen.  
