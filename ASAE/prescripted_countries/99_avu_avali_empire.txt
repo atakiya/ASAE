@@ -59,5 +59,6 @@
 		hair = 0
 		clothes = 0
 		ruler_title = "Council Superviser"
+		leader_class = ruler
 	}
 }
