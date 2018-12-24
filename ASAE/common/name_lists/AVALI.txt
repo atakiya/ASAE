@@ -1,0 +1,194 @@
+﻿### Avali
+### 
+### Assembled by Major Missile
+
+AVALI = {
+	ship_names = {
+		generic = {
+			Xad-Nyak Xederex Zadhadex Xontex Xadamach Xedleetha Xiin Zadakhat Ximang Zaraxes Ziinaxad Xadara Xischmi Zongax Zaraxim Zidix Zadaxon Zixim Ciimixin Ceremax Casarax Codvox Xiad Xomba Cardaxes Cardix Xobbon Zidinix Zarakh Zidrimax Zymtarax Cidjax Ximpa Xarxa Xogor Xanar Zilgar Deltox Zinivar Zendjax Zorixon Derazix Dolzor Dargaxor Darbix Daraxa Diinorzo Debar-Zax Zor-Kalos Zur-Talax Xom-Buruk Xol-Remok Xar-Corox Zel-Dotor Zod-Garax Diigarzak Zebarax Cyntharzo Conobax Carox Dez-Hilam Dax-Endiv Zablinnox Zapozor Zakithor Zadamak Zikrax Zuuldorox Zaximock Zaatrix Xoldagoros Xurinzaga Xorbozhaga Caldorix Cathrox Dexirama Dezuzarix Dirixiz Descorax Difirixamon Canix Zakarax Zithrix Cablarex Xarkaz Xeplaz Xevarex Damonix Decorza Daxarim Zakardim Xodarciz Zimizar Zulxari Zib-Korox Xuv-Xanim Xol-Irix Xam-Zevon Zed-Kevlax
+		}
+
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+		
+		titan = {
+		}
+		
+		colossus = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+		
+		transport = {
+		}
+		
+		military_station_small = {
+		}
+		
+		ion_cannon = {
+		}
+	}
+
+	ship_class_names = {
+		generic = {
+		}
+	}
+
+	fleet_names = {
+		random_names = {
+		}
+		sequential_name = "%O% Star Pack"
+	}
+
+	army_names = {
+		defense_army = {
+			sequential_name = "%O% Defensive Pack"
+		}
+		
+		assault_army = {
+			sequential_name = "%O% Assualt Pack"
+		}
+		
+		slave_army = {
+			sequential_name = "Slave Group %R%"
+		}
+		
+		clone_army = { 
+			sequential_name = "%O% Battlebred Pack"
+		}
+		
+		robotic_army = {
+			sequential_name = "%O% Assualt Drones"
+		}
+
+		robotic_defense_army = {
+			sequential_name = "%O% Defensive Drones"
+		}
+		
+		psionic_army = { 
+			sequential_name = "%O% Gifted Pack"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "%O% Beast Assualt Group"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "%O% Gene-Enhanced Pack"
+		}
+
+		occupation_army = {
+			sequential_name = "%O% Occupation Patrol"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "%O% Drone Patrol"
+		}
+
+		primitive_army = {
+			sequential_name = "Primitive Army %C%"
+		}
+		industrial_army = {
+			sequential_name = "Industrial Army %C%"
+		}
+		postatomic_army = {
+			sequential_name = "Post-Atomic Army %C%"
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+				Avalon Agartha Annwn Camelot Cockaigne Hyperborea Jotunheim Olympus Nibiru Shangri-La Themiscyra
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+				Renan Renun Renali Renoli Renuli Renami Renomi Renumi Renani Renuni Renuno Renuko Rena Reni Reno Renala Renaka Renako Renaku Renyo Renyu Renii Ranan Ranun Ranali Ranoli Ranuli Ranami Ranomi Ranumi Ranani Ranuni Ranuno Ranuko Rana Rani Rano Ranala Ranaka Ranako Ranaku Ranyo Ranyu Ranii Khaan Khaun Khaali Khaoli Khauli Khaami Khaomi Khaumi Khaani Khauni Khauno Khauko Khaa Khai Khao Khaala Khaaka Khaako Khaaku Khayo Khayu Khaii Rhaan Rhaun Rhaali Rhaoli Rhauli Rhaami Rhaomi Rhaumi Rhaani Rhauni Rhauno Rhauko Rhaa Rhai Rhao Rhaala Rhaaka Rhaako Rhaaku Rhayo Rhayu Rhaii Jesan Jesun Jesali Jesoli Jesuli Jesami Jesomi Jesumi Jesani Jesuni Jesuno Jesuko Jesa Jesi Jeso Jesala Jesaka Jesako Jesaku Jesyo Jesyu Jesii Nesan Nesun Nesali Nesoli Nesuli Nesami Nesomi Nesumi Nesani Nesuni Nesuno Nesuko Nesa Nesi Neso Nesala Nesaka Nesako Nesaku Nesyo Nesyu Nesii Nezan Nezun Nezali Nezoli Nezuli Nezami Nezomi Nezumi Nezani Nezuni Nezuno Nezuko Neza Nezi Nezo Nezala Nezaka Nezako Nezaku Nezyo Nezyu Nezii Jasan Jasun Jasali Jasoli Jasuli Jasami Jasomi Jasumi Jasani Jasuni Jasuno Jasuko Jasa Jasi Jaso Jasala Jasaka Jasako Jasaku Jasyo Jasyu Jasii Eijan Eijun Eijali Eijoli Eijuli Eijami Eijomi Eijumi Eijani Eijuni Eijuno Eijuko Eija Eiji Eijo Eijala Eijaka Eijako Eijaku Eijyo Eijyu Eijii Eikan Eikun Eikali Eikoli Eikuli Eikami Eikomi Eikumi Eikani Eikuni Eikuno Eikuko Eika Eiki Eiko Eikala Eikaka Eikako Eikaku Eikyo Eikyu Eikii Halan Halun Halali Haloli Haluli Halami Halomi Halumi Halani Haluni Haluno Haluko Hala Hali Halo Halala Halaka Halako Halaku Halyo Halyu Halii Kalan Kalun Kalali Kaloli Kaluli Kalami Kalomi Kalumi Kalani Kaluni Kaluno Kaluko Kala Kali Kalo Kalala Kalaka Kalako Kalaku Kalyo Kalyu Kalii Ralan Ralun Ralali Raloli Raluli Ralami Ralomi Ralumi Ralani Raluni Raluno Raluko Rala Rali Ralo Ralala Ralaka Ralako Ralaku Ralyo Ralyu Ralii Talan Talun Talali Taloli Taluli Talami Talomi Talumi Talani Taluni Taluno Taluko Tala Tali Talo Talala Talaka Talako Talaku Talyo Talyu Talii Nan Nun Nali Noli Nuli Nami Nomi Numi Nani Nuni Nuno Nuko Na Ni No Nala Naka Nako Naku Nyo Nyu Nii Kan Kun Kali Koli Kuli Kami Komi Kumi Kani Kuni Kuno Kuko Ka Ki Ko Kala Kaka Kako Kaku Kyo Kyu Kii Ran Run Rali Roli Ruli Rami Romi Rumi Rani Runi Runo Ruko Ra Ri Ro Rala Raka Rako Raku Ryo Ryu Rii Einan Einun Einali Einoli Einuli Einami Einomi Einumi Einani Einuni Einuno Einuko Eina Eini Eino Einala Einaka Einako Einaku Einyo Einyu Einii Nahan Nahun Nahali Naholi Nahuli Nahami Nahomi Nahumi Nahani Nahuni Nahuno Nahuko Naha Nahi Naho Nahala Nahaka Nahako Nahaku Nahyo Nahyu Nahii Naan Naun Naali Naoli Nauli Naami Naomi  Naumi Naani Nauni Nauno Nauko Naa Nai Nao Naala Naaka Naako Naaku Nayo Nayu Naii Kazan Kazun Kazali Kazoli Kazul Kazami Kazomi Kazumi Kazani Kazuni Kazuno Kazuko Kaza Kazi Kazo Kazala Kazaka Kazako Kazaku Kazyo Kazyu Kazii Kasan Kasun Kasali Kasoli Kasuli Kasami Kasomi Kasumi Kasani Kasuni Kasuno Kasuko Kasa Kasi Kaso Kasala Kasaka Kasako Kasaku Kasyo Kasyu Kasii Eilan Eilun Eilali Eiloli Eiluli Eilami Eilomi Eilumi Eilani Eiluni Eiluno Eiluko Eila Eili Eilo Eilala Eilaka Eilako Eilaku Eilyo Eilyu Eilii Eitan Eitun Eitali Eitoli Eituli Eitami Eitomi Eitumi Eitani Eituni Eituno Eituko Eita Eiti Eito Eitala Eitaka Eitako Eitaku Eityo Eityu Eitii
+			}
+			
+			# Always combined with a second name
+			first_names = {
+			}
+			
+			# Always combined with a first name
+			second_names = {
+			}
+			
+			regnal_first_names = {
+				Renan Renun Renali Renoli Renuli Renami Renomi Renumi Renani Renuni Renuno Renuko Rena Reni Reno Renala Renaka Renako Renaku Renyo Renyu Renii Ranan Ranun Ranali Ranoli Ranuli Ranami Ranomi Ranumi Ranani Ranuni Ranuno Ranuko Rana Rani Rano Ranala Ranaka Ranako Ranaku Ranyo Ranyu Ranii Khaan Khaun Khaali Khaoli Khauli Khaami Khaomi Khaumi Khaani Khauni  Khauno Khauko Khaa Khai Khao Khaala Khaaka Khaako Khaaku Khayo Khayu Khaii Rhaan Rhaun Rhaali Rhaoli Rhauli Rhaami Rhaomi Rhaumi Rhaani Rhauni Rhauno Rhauko Rhaa Rhai Rhao Rhaala Rhaaka Rhaako Rhaaku Rhayo Rhayu Rhaii Jesan Jesun Jesali Jesoli Jesuli Jesami Jesomi Jesumi Jesani Jesuni Jesuno Jesuko Jesa Jesi Jeso Jesala Jesaka Jesako Jesaku Jesyo Jesyu Jesii Nesan Nesun Nesali Nesoli Nesuli Nesami Nesomi Nesumi Nesani Nesuni Nesuno Nesuko Nesa Nesi Neso Nesala Nesaka Nesako Nesaku Nesyo Nesyu Nesii Nezan Nezun Nezali Nezoli Nezuli Nezami Nezomi Nezumi Nezani Nezuni Nezuno Nezuko Neza Nezi Nezo Nezala Nezaka Nezako Nezaku Nezyo Nezyu Nezii Jasan Jasun Jasali Jasoli Jasuli Jasami Jasomi Jasumi Jasani Jasuni Jasuno Jasuko Jasa Jasi Jaso Jasala Jasaka Jasako Jasaku Jasyo Jasyu Jasii Eijan Eijun Eijali Eijoli Eijuli Eijami Eijomi Eijumi Eijani Eijuni Eijuno Eijuko Eija Eiji Eijo Eijala Eijaka Eijako Eijaku Eijyo Eijyu Eijii Eikan Eikun Eikali Eikoli Eikuli Eikami Eikomi Eikumi Eikani Eikuni Eikuno Eikuko Eika Eiki Eiko Eikala Eikaka Eikako Eikaku Eikyo Eikyu Eikii Halan Halun Halali Haloli Haluli Halami Halomi Halumi Halani Haluni Haluno Haluko Hala Hali Halo Halala Halaka Halako Halaku Halyo Halyu Halii Kalan Kalun Kalali Kaloli Kaluli Kalami Kalomi Kalumi Kalani Kaluni Kaluno Kaluko Kala Kali Kalo Kalala Kalaka Kalako Kalaku Kalyo Kalyu Kalii Ralan Ralun Ralali Raloli Raluli Ralami Ralomi Ralumi Ralani Raluni Raluno Raluko Rala Rali Ralo Ralala Ralaka Ralako Ralaku Ralyo Ralyu Ralii Talan Talun Talali Taloli Taluli Talami Talomi Talumi Talani Taluni Taluno Taluko Tala Tali Talo Talala Talaka Talako Talaku Talyo Talyu Talii Nan Nun Nali Noli Nuli Nami Nomi Numi Nani Nuni Nuno Nuko Na Ni No Nala Naka Nako Naku Nyo Nyu Nii Kan Kun Kali Koli Kuli Kami Komi Kumi Kani Kuni Kuno Kuko  Ka Ki Ko Kala Kaka Kako Kaku Kyo Kyu Kii Ran Run Rali Roli Ruli Rami Romi Rumi Rani Runi Runo Ruko Ra Ri Ro Rala Raka Rako Raku Ryo Ryu Rii Einan Einun Einali Einoli Einuli Einami Einomi Einumi Einani Einuni Einuno Einuko Eina Eini Eino Einala Einaka Einako Einaku Einyo Einyu Einii Nahan Nahun Nahali Naholi Nahuli Nahami Nahomi Nahumi Nahani Nahuni Nahuno Nahuko Naha Nahi Naho Nahala Nahaka Nahako Nahaku Nahyo Nahyu Nahii Naan Naun Naali Naoli Nauli Naami Naomi  Naumi Naani Nauni Nauno Nauko Naa Nai Nao Naala Naaka Naako Naaku Nayo Nayu Naii Kazan Kazun Kazali Kazoli Kazul Kazami Kazomi Kazumi Kazani Kazuni Kazuno Kazuko Kaza Kazi Kazo Kazala Kazaka Kazako Kazaku Kazyo Kazyu Kazii Kasan Kasun Kasali Kasoli Kasuli Kasami Kasomi Kasumi Kasani Kasuni Kasuno Kasuko Kasa Kasi Kaso Kasala Kasaka Kasako Kasaku Kasyo Kasyu Kasii Eilan Eilun Eilali Eiloli Eiluli Eilami Eilomi Eilumi Eilani Eiluni Eiluno Eiluko Eila Eili Eilo Eilala Eilaka Eilako Eilaku Eilyo Eilyu Eilii Eitan Eitun Eitali Eitoli Eituli Eitami Eitomi Eitumi Eitani Eituni Eituno Eituko Eita Eiti Eito Eitala Eitaka Eitako Eitaku Eityo Eityu Eitii
+			}
+			
+			regnal_second_names = {
+				"the Alpha"
+			}
+		}
+	}
+}

@@ -5,5 +5,7 @@
 
  # Flags
  FLAG_CATEGORY_avu_avali:0 "Avali"
+ name_list_AVALI:0 "Avali"
+ name_list_AVALI_desc:0 "§YNo description set yet."
 
  avali.null:0 ""
