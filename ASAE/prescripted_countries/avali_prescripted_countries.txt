@@ -1,0 +1,131 @@
+avali_illuminate = {
+  name = "Avali Illuminate"
+  adjective = "PRESCRIPTED_adjective_avali_illuminate"
+  spawn_enabled = yes
+  
+  ship_prefix = "PRESCRIPTED_ship_prefix_avali_illuminate"
+  
+  species = {
+    class = "AVALI"
+    portrait = "avali"
+    name = "PRESCRIPTED_species_name_avali"
+    plural = "PRESCRIPTED_species_plural_avali"
+    adjective = "PRESCRIPTED_species_adjective_avali"
+    name_list = "AVALI"
+    trait = "trait_nomadic"
+    trait = "trait_communal"
+    trait = "trait_slow_breeders"
+    trait = "trait_traditional"
+  }
+  
+  room = "personality_erudite_explorers_room"
+  
+  authority = "auth_oligarchic"
+  civics = { "civic_functional_architecture" "civic_technocracy" }
+  government = "gov_science_directorate"
+  
+  ethic = "ethic_xenophobe"
+  ethic = "ethic_fanatic_materialist"
+  
+  planet_name = "PRESCRIPTED_planet_name_avali_illuminate"
+  planet_class = "pc_arctic"
+  system_name = "PRESCRIPTED_system_name_avali_illuminate"
+  initializer = ""
+  
+  graphical_culture = "mammalian_01"
+  city_graphical_culture = "reptilian_01"
+  
+  empire_flag = {
+    icon= {
+      category = "avu_avali"
+      file = "avaliemblem.dds"
+    }
+    background = {
+      category = "backgrounds"
+      file = "00_solid.dds"
+    }
+    colors = {
+      "grey"
+      "light_orange"
+      "null"
+      "null"
+    }
+  }
+  
+  ruler = {
+    name = "PRESCRIPTED_ruler_name_avali_illuminate"
+    gender = male
+    portrait = "avali08"
+    texture = 0
+    hair = 0
+    clothes = 0
+    ruler_title = "PRESCRIPTED_ruler_title_avali_illuminate"
+    leader_class = ruler
+  }
+}
+
+avali_independent = {
+  name = "Avali Independent Worlds"
+  adjective = "PRESCRIPTED_adjective_avali_independent"
+  spawn_enabled = yes
+  
+  ship_prefix = "PRESCRIPTED_ship_prefix_avali_independent"
+  
+  species = {
+    class = "AVALI"
+    portrait = "avali"
+    name = "PRESCRIPTED_species_name_avali"
+    plural = "PRESCRIPTED_species_plural_avali"
+    adjective = "PRESCRIPTED_species_adjective_avali"
+    name_list = "AVALI"
+    trait = "trait_nomadic"
+    trait = "trait_talented"
+    trait = "trait_slow_breeders"
+    trait = "trait_quarrelsome"
+  }
+  
+  room = "personality_erudite_explorers_room"
+  
+  authority = "auth_democratic"
+  civics = { "civic_warrior_culture" "civic_free_haven" }
+  government = "gov_assembly_of_clans"
+  
+  ethic="ethic_xenophile"
+  ethic="ethic_militarist"
+  ethic="ethic_materialist"
+  
+  planet_name = "PRESCRIPTED_planet_name_avali_independent"
+  planet_class = "pc_arctic"
+  system_name = "PRESCRIPTED_system_name_avali_independent"
+  
+  graphical_culture = "mammalian_01"
+  city_graphical_culture = "reptilian_01"
+  
+  empire_flag = {
+    icon= {
+      category = "avu_avali"
+      file = "avaliemblem.dds"
+    }
+    background= {
+      category = "backgrounds"
+      file = "00_solid.dds"
+    }
+    colors={
+      "grey"
+      "light_orange"
+      "null"
+      "null"
+    }
+  }
+  
+  ruler = {
+    name = "PRESCRIPTED_ruler_name_avali_independent"
+    gender = male
+    portrait = "avali08"
+    texture = 0
+    hair = 0
+    clothes = 0
+    ruler_title = "PRESCRIPTED_ruler_title_avali_independent"
+    leader_class = ruler
+  }
+}
