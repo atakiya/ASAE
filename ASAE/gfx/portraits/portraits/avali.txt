@@ -1,95 +1,468 @@
+##############################################################
+###	Portraits for Avali
+###
+### The eyes were used in place of hairstyle
+##############################################################
+
+
 portraits = {
-    avali01 = {
-        texturefile = "gfx/models/Avali/avali01.dds"
-    }
-    avali02 = {
-        texturefile = "gfx/models/Avali/avali02.dds"
-    }
-    avali03 = {
-        texturefile = "gfx/models/Avali/avali03.dds"
-    }
-    avali04 = {
-        texturefile = "gfx/models/Avali/avali04.dds"
-    }
-    avali05 = {
-        texturefile = "gfx/models/Avali/avali05.dds"
-    }
-    avali06 = {
-        texturefile = "gfx/models/Avali/avali06.dds"
-    }
-    avali07 = {
-        texturefile = "gfx/models/Avali/avali07.dds"
-    }
-    avali08 = {
-        texturefile = "gfx/models/Avali/avali08.dds"
-    }
-    avali09 = {
-        texturefile = "gfx/models/Avali/avali09.dds"
-    }
-    avali10 = {
-        texturefile = "gfx/models/Avali/avali10.dds"
-    }
-    avali11 = {
-        texturefile = "gfx/models/Avali/avali11.dds"
-    }
-    avali12 = {
-        texturefile = "gfx/models/Avali/avali12.dds"
-    }
-    avali13 = {
-        texturefile = "gfx/models/Avali/avali13.dds"
-    }
-    avali14 = {
-        texturefile = "gfx/models/Avali/avali14.dds"
-    }
-    avali15 = {
-        texturefile = "gfx/models/Avali/avali15.dds"
-    }
-    avali16 = {
-        texturefile = "gfx/models/Avali/avali16.dds"
-    }
-    avali17 = {
-        texturefile = "gfx/models/Avali/avali17.dds"
-    }
-    avali18 = {
-        texturefile = "gfx/models/Avali/avali18.dds"
-    }
-    avali19 = {
-        texturefile = "gfx/models/Avali/avali19.dds"
-    }
-    avali20 = {
-        texturefile = "gfx/models/Avali/avali20.dds"
-    }
+
+	#Avali
+        Avali_Neutral_1_1_1_1 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_1_1_1_1.dds" }
+        Avali_Neutral_1_2_2_2 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_1_2_2_2.dds" }
+        Avali_Neutral_1_3_3_3 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_1_3_3_3.dds" }
+        Avali_Neutral_1_4_4_4 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_1_4_4_4.dds" }
+        Avali_Neutral_1_5_5_5 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_1_5_5_5.dds" }
+        Avali_Neutral_1_6_6_6 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_1_6_6_6.dds" }
+        Avali_Neutral_1_7_7_7 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_1_7_7_7.dds" }
+        Avali_Neutral_1_8_8_8 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_1_8_8_8.dds" }
+        Avali_Neutral_1_9_9_9 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_1_9_9_9.dds" }
+        Avali_Neutral_1_10_10_10 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_1_10_10_10.dds" }
+        Avali_Neutral_2_1_1_1 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_2_1_1_1.dds" }
+        Avali_Neutral_2_2_2_2 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_2_2_2_2.dds" }
+        Avali_Neutral_2_3_3_3 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_2_3_3_3.dds" }
+        Avali_Neutral_2_4_4_4 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_2_4_4_4.dds" }
+        Avali_Neutral_2_5_5_5 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_2_5_5_5.dds" }
+        Avali_Neutral_2_6_6_6 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_2_6_6_6.dds" }
+        Avali_Neutral_2_7_7_7 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_2_7_7_7.dds" }
+        Avali_Neutral_2_8_8_8 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_2_8_8_8.dds" }
+        Avali_Neutral_2_9_9_9 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_2_9_9_9.dds" }
+        Avali_Neutral_2_10_10_10 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_2_10_10_10.dds" }
+        Avali_Neutral_3_1_1_1 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_3_1_1_1.dds" }
+        Avali_Neutral_3_2_2_2 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_3_2_2_2.dds" }
+        Avali_Neutral_3_3_3_3 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_3_3_3_3.dds" }
+        Avali_Neutral_3_4_4_4 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_3_4_4_4.dds" }
+        Avali_Neutral_3_5_5_5 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_3_5_5_5.dds" }
+        Avali_Neutral_3_6_6_6 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_3_6_6_6.dds" }
+        Avali_Neutral_3_7_7_7 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_3_7_7_7.dds" }
+        Avali_Neutral_3_8_8_8 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_3_8_8_8.dds" }
+        Avali_Neutral_3_9_9_9 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_3_9_9_9.dds" }
+        Avali_Neutral_3_10_10_10 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_3_10_10_10.dds" }
+        Avali_Neutral_4_1_1_1 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_4_1_1_1.dds" }
+        Avali_Neutral_4_2_2_2 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_4_2_2_2.dds" }
+        Avali_Neutral_4_3_3_3 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_4_3_3_3.dds" }
+        Avali_Neutral_4_4_4_4 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_4_4_4_4.dds" }
+        Avali_Neutral_4_5_5_5 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_4_5_5_5.dds" }
+        Avali_Neutral_4_6_6_6 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_4_6_6_6.dds" }
+        Avali_Neutral_4_7_7_7 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_4_7_7_7.dds" }
+        Avali_Neutral_4_8_8_8 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_4_8_8_8.dds" }
+        Avali_Neutral_4_9_9_9 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_4_9_9_9.dds" }
+        Avali_Neutral_4_10_10_10 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_4_10_10_10.dds" }
+        Avali_Neutral_5_1_1_1 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_5_1_1_1.dds" }
+        Avali_Neutral_5_2_2_2 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_5_2_2_2.dds" }
+        Avali_Neutral_5_3_3_3 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_5_3_3_3.dds" }
+        Avali_Neutral_5_4_4_4 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_5_4_4_4.dds" }
+        Avali_Neutral_5_5_5_5 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_5_5_5_5.dds" }
+        Avali_Neutral_5_6_6_6 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_5_6_6_6.dds" }
+        Avali_Neutral_5_7_7_7 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_5_7_7_7.dds" }
+        Avali_Neutral_5_8_8_8 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_5_8_8_8.dds" }
+        Avali_Neutral_5_9_9_9 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_5_9_9_9.dds" }
+        Avali_Neutral_5_10_10_10 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_5_10_10_10.dds" }
+        Avali_Neutral_6_1_1_1 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_6_1_1_1.dds" }
+        Avali_Neutral_6_2_2_2 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_6_2_2_2.dds" }
+        Avali_Neutral_6_3_3_3 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_6_3_3_3.dds" }
+        Avali_Neutral_6_4_4_4 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_6_4_4_4.dds" }
+        Avali_Neutral_6_5_5_5 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_6_5_5_5.dds" }
+        Avali_Neutral_6_6_6_6 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_6_6_6_6.dds" }
+        Avali_Neutral_6_7_7_7 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_6_7_7_7.dds" }
+        Avali_Neutral_6_8_8_8 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_6_8_8_8.dds" }
+        Avali_Neutral_6_9_9_9 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_6_9_9_9.dds" }
+        Avali_Neutral_6_10_10_10 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Neutral_6_10_10_10.dds" }
+        Avali_Male_1_6_4_1 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_1_6_4_1.dds" }
+        Avali_Male_1_6_4_2 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_1_6_4_2.dds" }
+        Avali_Male_1_6_4_3 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_1_6_4_3.dds" }
+        Avali_Male_1_6_4_4 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_1_6_4_4.dds" }
+        Avali_Male_1_6_4_5 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_1_6_4_5.dds" }
+        Avali_Male_1_6_4_6 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_1_6_4_6.dds" }
+        Avali_Male_1_6_4_7 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_1_6_4_7.dds" }
+        Avali_Male_1_6_4_8 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_1_6_4_8.dds" }
+        Avali_Male_1_6_4_9 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_1_6_4_9.dds" }
+        Avali_Male_1_6_4_10 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_1_6_4_10.dds" }
+        Avali_Male_1_6_4_11 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_1_6_4_11.dds" }
+        Avali_Male_1_6_4_12 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_1_6_4_12.dds" }
+        Avali_Male_1_6_4_13 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_1_6_4_13.dds" }
+        Avali_Male_1_6_4_14 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_1_6_4_14.dds" }
+        Avali_Male_1_6_4_15 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_1_6_4_15.dds" }
+        Avali_Male_1_6_4_16 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_1_6_4_16.dds" }
+        Avali_Male_1_6_4_17 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_1_6_4_17.dds" }
+        Avali_Male_1_6_4_18 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_1_6_4_18.dds" }
+        Avali_Female_1_6_4_1 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_1_6_4_1.dds" }
+        Avali_Female_1_6_4_2 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_1_6_4_2.dds" }
+        Avali_Female_1_6_4_3 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_1_6_4_3.dds" }
+        Avali_Female_1_6_4_4 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_1_6_4_4.dds" }
+        Avali_Female_1_6_4_5 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_1_6_4_5.dds" }
+        Avali_Female_1_6_4_6 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_1_6_4_6.dds" }
+        Avali_Female_1_6_4_7 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_1_6_4_7.dds" }
+        Avali_Female_1_6_4_8 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_1_6_4_8.dds" }
+        Avali_Female_1_6_4_9 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_1_6_4_9.dds" }
+        Avali_Female_1_6_4_10 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_1_6_4_10.dds" }
+        Avali_Female_1_6_4_11 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_1_6_4_11.dds" }
+        Avali_Female_1_6_4_12 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_1_6_4_12.dds" }
+        Avali_Female_1_6_4_13 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_1_6_4_13.dds" }
+        Avali_Female_1_6_4_14 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_1_6_4_14.dds" }
+        Avali_Female_1_6_4_15 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_1_6_4_15.dds" }
+        Avali_Female_1_6_4_16 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_1_6_4_16.dds" }
+        Avali_Female_1_6_4_17 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_1_6_4_17.dds" }
+        Avali_Female_1_6_4_18 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_1_6_4_18.dds" }
+        Avali_Male_2_6_4_1 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_2_6_4_1.dds" }
+        Avali_Male_2_6_4_2 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_2_6_4_2.dds" }
+        Avali_Male_2_6_4_3 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_2_6_4_3.dds" }
+        Avali_Male_2_6_4_4 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_2_6_4_4.dds" }
+        Avali_Male_2_6_4_5 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_2_6_4_5.dds" }
+        Avali_Male_2_6_4_6 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_2_6_4_6.dds" }
+        Avali_Male_2_6_4_7 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_2_6_4_7.dds" }
+        Avali_Male_2_6_4_8 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_2_6_4_8.dds" }
+        Avali_Male_2_6_4_9 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_2_6_4_9.dds" }
+        Avali_Male_2_6_4_10 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_2_6_4_10.dds" }
+        Avali_Male_2_6_4_11 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_2_6_4_11.dds" }
+        Avali_Male_2_6_4_12 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_2_6_4_12.dds" }
+        Avali_Male_2_6_4_13 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_2_6_4_13.dds" }
+        Avali_Male_2_6_4_14 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_2_6_4_14.dds" }
+        Avali_Male_2_6_4_15 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_2_6_4_15.dds" }
+        Avali_Male_2_6_4_16 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_2_6_4_16.dds" }
+        Avali_Male_2_6_4_17 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_2_6_4_17.dds" }
+        Avali_Male_2_6_4_18 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_2_6_4_18.dds" }
+        Avali_Female_2_6_4_1 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_2_6_4_1.dds" }
+        Avali_Female_2_6_4_2 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_2_6_4_2.dds" }
+        Avali_Female_2_6_4_3 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_2_6_4_3.dds" }
+        Avali_Female_2_6_4_4 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_2_6_4_4.dds" }
+        Avali_Female_2_6_4_5 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_2_6_4_5.dds" }
+        Avali_Female_2_6_4_6 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_2_6_4_6.dds" }
+        Avali_Female_2_6_4_7 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_2_6_4_7.dds" }
+        Avali_Female_2_6_4_8 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_2_6_4_8.dds" }
+        Avali_Female_2_6_4_9 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_2_6_4_9.dds" }
+        Avali_Female_2_6_4_10 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_2_6_4_10.dds" }
+        Avali_Female_2_6_4_11 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_2_6_4_11.dds" }
+        Avali_Female_2_6_4_12 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_2_6_4_12.dds" }
+        Avali_Female_2_6_4_13 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_2_6_4_13.dds" }
+        Avali_Female_2_6_4_14 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_2_6_4_14.dds" }
+        Avali_Female_2_6_4_15 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_2_6_4_15.dds" }
+        Avali_Female_2_6_4_16 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_2_6_4_16.dds" }
+        Avali_Female_2_6_4_17 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_2_6_4_17.dds" }
+        Avali_Female_2_6_4_18 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_2_6_4_18.dds" }
+        Avali_Male_3_6_4_1 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_3_6_4_1.dds" }
+        Avali_Male_3_6_4_2 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_3_6_4_2.dds" }
+        Avali_Male_3_6_4_3 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_3_6_4_3.dds" }
+        Avali_Male_3_6_4_4 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_3_6_4_4.dds" }
+        Avali_Male_3_6_4_5 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_3_6_4_5.dds" }
+        Avali_Male_3_6_4_6 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_3_6_4_6.dds" }
+        Avali_Male_3_6_4_7 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_3_6_4_7.dds" }
+        Avali_Male_3_6_4_8 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_3_6_4_8.dds" }
+        Avali_Male_3_6_4_9 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_3_6_4_9.dds" }
+        Avali_Male_3_6_4_10 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_3_6_4_10.dds" }
+        Avali_Male_3_6_4_11 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_3_6_4_11.dds" }
+        Avali_Male_3_6_4_12 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_3_6_4_12.dds" }
+        Avali_Male_3_6_4_13 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_3_6_4_13.dds" }
+        Avali_Male_3_6_4_14 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_3_6_4_14.dds" }
+        Avali_Male_3_6_4_15 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_3_6_4_15.dds" }
+        Avali_Male_3_6_4_16 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_3_6_4_16.dds" }
+        Avali_Male_3_6_4_17 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_3_6_4_17.dds" }
+        Avali_Male_3_6_4_18 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_3_6_4_18.dds" }
+        Avali_Female_3_6_4_1 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_3_6_4_1.dds" }
+        Avali_Female_3_6_4_2 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_3_6_4_2.dds" }
+        Avali_Female_3_6_4_3 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_3_6_4_3.dds" }
+        Avali_Female_3_6_4_4 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_3_6_4_4.dds" }
+        Avali_Female_3_6_4_5 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_3_6_4_5.dds" }
+        Avali_Female_3_6_4_6 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_3_6_4_6.dds" }
+        Avali_Female_3_6_4_7 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_3_6_4_7.dds" }
+        Avali_Female_3_6_4_8 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_3_6_4_8.dds" }
+        Avali_Female_3_6_4_9 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_3_6_4_9.dds" }
+        Avali_Female_3_6_4_10 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_3_6_4_10.dds" }
+        Avali_Female_3_6_4_11 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_3_6_4_11.dds" }
+        Avali_Female_3_6_4_12 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_3_6_4_12.dds" }
+        Avali_Female_3_6_4_13 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_3_6_4_13.dds" }
+        Avali_Female_3_6_4_14 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_3_6_4_14.dds" }
+        Avali_Female_3_6_4_15 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_3_6_4_15.dds" }
+        Avali_Female_3_6_4_16 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_3_6_4_16.dds" }
+        Avali_Female_3_6_4_17 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_3_6_4_17.dds" }
+        Avali_Female_3_6_4_18 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_3_6_4_18.dds" }
+        Avali_Male_4_6_4_1 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_4_6_4_1.dds" }
+        Avali_Male_4_6_4_2 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_4_6_4_2.dds" }
+        Avali_Male_4_6_4_3 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_4_6_4_3.dds" }
+        Avali_Male_4_6_4_4 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_4_6_4_4.dds" }
+        Avali_Male_4_6_4_5 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_4_6_4_5.dds" }
+        Avali_Male_4_6_4_6 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_4_6_4_6.dds" }
+        Avali_Male_4_6_4_7 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_4_6_4_7.dds" }
+        Avali_Male_4_6_4_8 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_4_6_4_8.dds" }
+        Avali_Male_4_6_4_9 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_4_6_4_9.dds" }
+        Avali_Male_4_6_4_10 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_4_6_4_10.dds" }
+        Avali_Male_4_6_4_11 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_4_6_4_11.dds" }
+        Avali_Male_4_6_4_12 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_4_6_4_12.dds" }
+        Avali_Male_4_6_4_13 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_4_6_4_13.dds" }
+        Avali_Male_4_6_4_14 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_4_6_4_14.dds" }
+        Avali_Male_4_6_4_15 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_4_6_4_15.dds" }
+        Avali_Male_4_6_4_16 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_4_6_4_16.dds" }
+        Avali_Male_4_6_4_17 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_4_6_4_17.dds" }
+        Avali_Male_4_6_4_18 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_4_6_4_18.dds" }
+        Avali_Female_4_6_4_1 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_4_6_4_1.dds" }
+        Avali_Female_4_6_4_2 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_4_6_4_2.dds" }
+        Avali_Female_4_6_4_3 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_4_6_4_3.dds" }
+        Avali_Female_4_6_4_4 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_4_6_4_4.dds" }
+        Avali_Female_4_6_4_5 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_4_6_4_5.dds" }
+        Avali_Female_4_6_4_6 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_4_6_4_6.dds" }
+        Avali_Female_4_6_4_7 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_4_6_4_7.dds" }
+        Avali_Female_4_6_4_8 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_4_6_4_8.dds" }
+        Avali_Female_4_6_4_9 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_4_6_4_9.dds" }
+        Avali_Female_4_6_4_10 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_4_6_4_10.dds" }
+        Avali_Female_4_6_4_11 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_4_6_4_11.dds" }
+        Avali_Female_4_6_4_12 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_4_6_4_12.dds" }
+        Avali_Female_4_6_4_13 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_4_6_4_13.dds" }
+        Avali_Female_4_6_4_14 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_4_6_4_14.dds" }
+        Avali_Female_4_6_4_15 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_4_6_4_15.dds" }
+        Avali_Female_4_6_4_16 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_4_6_4_16.dds" }
+        Avali_Female_4_6_4_17 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_4_6_4_17.dds" }
+        Avali_Female_4_6_4_18 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_4_6_4_18.dds" }
+        Avali_Male_5_6_4_1 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_5_6_4_1.dds" }
+        Avali_Male_5_6_4_2 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_5_6_4_2.dds" }
+        Avali_Male_5_6_4_3 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_5_6_4_3.dds" }
+        Avali_Male_5_6_4_4 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_5_6_4_4.dds" }
+        Avali_Male_5_6_4_5 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_5_6_4_5.dds" }
+        Avali_Male_5_6_4_6 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_5_6_4_6.dds" }
+        Avali_Male_5_6_4_7 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_5_6_4_7.dds" }
+        Avali_Male_5_6_4_8 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_5_6_4_8.dds" }
+        Avali_Male_5_6_4_9 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_5_6_4_9.dds" }
+        Avali_Male_5_6_4_10 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_5_6_4_10.dds" }
+        Avali_Male_5_6_4_11 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_5_6_4_11.dds" }
+        Avali_Male_5_6_4_12 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_5_6_4_12.dds" }
+        Avali_Male_5_6_4_13 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_5_6_4_13.dds" }
+        Avali_Male_5_6_4_14 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_5_6_4_14.dds" }
+        Avali_Male_5_6_4_15 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_5_6_4_15.dds" }
+        Avali_Male_5_6_4_16 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_5_6_4_16.dds" }
+        Avali_Male_5_6_4_17 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_5_6_4_17.dds" }
+        Avali_Male_5_6_4_18 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_5_6_4_18.dds" }
+        Avali_Female_5_6_4_1 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_5_6_4_1.dds" }
+        Avali_Female_5_6_4_2 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_5_6_4_2.dds" }
+        Avali_Female_5_6_4_3 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_5_6_4_3.dds" }
+        Avali_Female_5_6_4_4 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_5_6_4_4.dds" }
+        Avali_Female_5_6_4_5 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_5_6_4_5.dds" }
+        Avali_Female_5_6_4_6 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_5_6_4_6.dds" }
+        Avali_Female_5_6_4_7 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_5_6_4_7.dds" }
+        Avali_Female_5_6_4_8 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_5_6_4_8.dds" }
+        Avali_Female_5_6_4_9 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_5_6_4_9.dds" }
+        Avali_Female_5_6_4_10 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_5_6_4_10.dds" }
+        Avali_Female_5_6_4_11 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_5_6_4_11.dds" }
+        Avali_Female_5_6_4_12 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_5_6_4_12.dds" }
+        Avali_Female_5_6_4_13 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_5_6_4_13.dds" }
+        Avali_Female_5_6_4_14 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_5_6_4_14.dds" }
+        Avali_Female_5_6_4_15 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_5_6_4_15.dds" }
+        Avali_Female_5_6_4_16 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_5_6_4_16.dds" }
+        Avali_Female_5_6_4_17 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_5_6_4_17.dds" }
+        Avali_Female_5_6_4_18 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_5_6_4_18.dds" }
+        Avali_Male_6_6_4_1 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_6_6_4_1.dds" }
+        Avali_Male_6_6_4_2 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_6_6_4_2.dds" }
+        Avali_Male_6_6_4_3 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_6_6_4_3.dds" }
+        Avali_Male_6_6_4_4 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_6_6_4_4.dds" }
+        Avali_Male_6_6_4_5 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_6_6_4_5.dds" }
+        Avali_Male_6_6_4_6 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_6_6_4_6.dds" }
+        Avali_Male_6_6_4_7 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_6_6_4_7.dds" }
+        Avali_Male_6_6_4_8 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_6_6_4_8.dds" }
+        Avali_Male_6_6_4_9 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_6_6_4_9.dds" }
+        Avali_Male_6_6_4_10 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_6_6_4_10.dds" }
+        Avali_Male_6_6_4_11 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_6_6_4_11.dds" }
+        Avali_Male_6_6_4_12 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_6_6_4_12.dds" }
+        Avali_Male_6_6_4_13 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_6_6_4_13.dds" }
+        Avali_Male_6_6_4_14 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_6_6_4_14.dds" }
+        Avali_Male_6_6_4_15 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_6_6_4_15.dds" }
+        Avali_Male_6_6_4_16 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_6_6_4_16.dds" }
+        Avali_Male_6_6_4_17 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_6_6_4_17.dds" }
+        Avali_Male_6_6_4_18 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Male_6_6_4_18.dds" }
+        Avali_Female_6_6_4_1 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_6_6_4_1.dds" }
+        Avali_Female_6_6_4_2 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_6_6_4_2.dds" }
+        Avali_Female_6_6_4_3 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_6_6_4_3.dds" }
+        Avali_Female_6_6_4_4 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_6_6_4_4.dds" }
+        Avali_Female_6_6_4_5 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_6_6_4_5.dds" }
+        Avali_Female_6_6_4_6 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_6_6_4_6.dds" }
+        Avali_Female_6_6_4_7 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_6_6_4_7.dds" }
+        Avali_Female_6_6_4_8 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_6_6_4_8.dds" }
+        Avali_Female_6_6_4_9 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_6_6_4_9.dds" }
+        Avali_Female_6_6_4_10 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_6_6_4_10.dds" }
+        Avali_Female_6_6_4_11 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_6_6_4_11.dds" }
+        Avali_Female_6_6_4_12 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_6_6_4_12.dds" }
+        Avali_Female_6_6_4_13 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_6_6_4_13.dds" }
+        Avali_Female_6_6_4_14 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_6_6_4_14.dds" }
+        Avali_Female_6_6_4_15 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_6_6_4_15.dds" }
+        Avali_Female_6_6_4_16 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_6_6_4_16.dds" }
+        Avali_Female_6_6_4_17 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_6_6_4_17.dds" }
+        Avali_Female_6_6_4_18 = { texturefile = "gfx/models/Avali/Compiled/Clothes_1_4_13/Avali_Female_6_6_4_18.dds" }
 }
 
 portrait_groups = {
     avali = {
-        default = avali01
+        default = Avali_Male_2_6_4_13
         game_setup = {
             add = {
                 trigger = {
                     ruler = { gender = female }
                 }
                 portraits = {      
-                    avali01
-                    avali02
-                    avali03
-                    avali04
-                    avali05
-                    avali06
-                    avali07
-                    avali08
-                    avali09
-                    avali10
-                    avali11
-                    avali12
-                    avali13
-                    avali14
-                    avali15
-                    avali16
-                    avali17
-                    avali18
-                    avali19
-                    avali20
+                    Avali_Neutral_1_1_1_1
+                    Avali_Neutral_1_2_2_2
+                    Avali_Neutral_1_3_3_3
+                    Avali_Neutral_1_4_4_4
+                    Avali_Neutral_1_5_5_5
+                    Avali_Neutral_1_6_6_6
+                    Avali_Neutral_1_7_7_7
+                    Avali_Neutral_1_8_8_8
+                    Avali_Neutral_1_9_9_9
+                    Avali_Neutral_1_10_10_10
+                    Avali_Neutral_2_1_1_1
+                    Avali_Neutral_2_2_2_2
+                    Avali_Neutral_2_3_3_3
+                    Avali_Neutral_2_4_4_4
+                    Avali_Neutral_2_5_5_5
+                    Avali_Neutral_2_6_6_6
+                    Avali_Neutral_2_7_7_7
+                    Avali_Neutral_2_8_8_8
+                    Avali_Neutral_2_9_9_9
+                    Avali_Neutral_2_10_10_10
+                    Avali_Neutral_3_1_1_1
+                    Avali_Neutral_3_2_2_2
+                    Avali_Neutral_3_3_3_3
+                    Avali_Neutral_3_4_4_4
+                    Avali_Neutral_3_5_5_5
+                    Avali_Neutral_3_6_6_6
+                    Avali_Neutral_3_7_7_7
+                    Avali_Neutral_3_8_8_8
+                    Avali_Neutral_3_9_9_9
+                    Avali_Neutral_3_10_10_10
+                    Avali_Neutral_4_1_1_1
+                    Avali_Neutral_4_2_2_2
+                    Avali_Neutral_4_3_3_3
+                    Avali_Neutral_4_4_4_4
+                    Avali_Neutral_4_5_5_5
+                    Avali_Neutral_4_6_6_6
+                    Avali_Neutral_4_7_7_7
+                    Avali_Neutral_4_8_8_8
+                    Avali_Neutral_4_9_9_9
+                    Avali_Neutral_4_10_10_10
+                    Avali_Neutral_5_1_1_1
+                    Avali_Neutral_5_2_2_2
+                    Avali_Neutral_5_3_3_3
+                    Avali_Neutral_5_4_4_4
+                    Avali_Neutral_5_5_5_5
+                    Avali_Neutral_5_6_6_6
+                    Avali_Neutral_5_7_7_7
+                    Avali_Neutral_5_8_8_8
+                    Avali_Neutral_5_9_9_9
+                    Avali_Neutral_5_10_10_10
+                    Avali_Neutral_6_1_1_1
+                    Avali_Neutral_6_2_2_2
+                    Avali_Neutral_6_3_3_3
+                    Avali_Neutral_6_4_4_4
+                    Avali_Neutral_6_5_5_5
+                    Avali_Neutral_6_6_6_6
+                    Avali_Neutral_6_7_7_7
+                    Avali_Neutral_6_8_8_8
+                    Avali_Neutral_6_9_9_9
+                    Avali_Neutral_6_10_10_10
+                    Avali_Female_1_6_4_1
+                    Avali_Female_1_6_4_2
+                    Avali_Female_1_6_4_3
+                    Avali_Female_1_6_4_4
+                    Avali_Female_1_6_4_5
+                    Avali_Female_1_6_4_6
+                    Avali_Female_1_6_4_7
+                    Avali_Female_1_6_4_8
+                    Avali_Female_1_6_4_9
+                    Avali_Female_1_6_4_10
+                    Avali_Female_1_6_4_11
+                    Avali_Female_1_6_4_12
+                    Avali_Female_1_6_4_13
+                    Avali_Female_1_6_4_14
+                    Avali_Female_1_6_4_15
+                    Avali_Female_1_6_4_16
+                    Avali_Female_1_6_4_17
+                    Avali_Female_1_6_4_18
+                    Avali_Female_2_6_4_1
+                    Avali_Female_2_6_4_2
+                    Avali_Female_2_6_4_3
+                    Avali_Female_2_6_4_4
+                    Avali_Female_2_6_4_5
+                    Avali_Female_2_6_4_6
+                    Avali_Female_2_6_4_7
+                    Avali_Female_2_6_4_8
+                    Avali_Female_2_6_4_9
+                    Avali_Female_2_6_4_10
+                    Avali_Female_2_6_4_11
+                    Avali_Female_2_6_4_12
+                    Avali_Female_2_6_4_13
+                    Avali_Female_2_6_4_14
+                    Avali_Female_2_6_4_15
+                    Avali_Female_2_6_4_16
+                    Avali_Female_2_6_4_17
+                    Avali_Female_2_6_4_18
+                    Avali_Female_3_6_4_1
+                    Avali_Female_3_6_4_2
+                    Avali_Female_3_6_4_3
+                    Avali_Female_3_6_4_4
+                    Avali_Female_3_6_4_5
+                    Avali_Female_3_6_4_6
+                    Avali_Female_3_6_4_7
+                    Avali_Female_3_6_4_8
+                    Avali_Female_3_6_4_9
+                    Avali_Female_3_6_4_10
+                    Avali_Female_3_6_4_11
+                    Avali_Female_3_6_4_12
+                    Avali_Female_3_6_4_13
+                    Avali_Female_3_6_4_14
+                    Avali_Female_3_6_4_15
+                    Avali_Female_3_6_4_16
+                    Avali_Female_3_6_4_17
+                    Avali_Female_3_6_4_18
+                    Avali_Female_4_6_4_1
+                    Avali_Female_4_6_4_2
+                    Avali_Female_4_6_4_3
+                    Avali_Female_4_6_4_4
+                    Avali_Female_4_6_4_5
+                    Avali_Female_4_6_4_6
+                    Avali_Female_4_6_4_7
+                    Avali_Female_4_6_4_8
+                    Avali_Female_4_6_4_9
+                    Avali_Female_4_6_4_10
+                    Avali_Female_4_6_4_11
+                    Avali_Female_4_6_4_12
+                    Avali_Female_4_6_4_13
+                    Avali_Female_4_6_4_14
+                    Avali_Female_4_6_4_15
+                    Avali_Female_4_6_4_16
+                    Avali_Female_4_6_4_17
+                    Avali_Female_4_6_4_18
+                    Avali_Female_5_6_4_1
+                    Avali_Female_5_6_4_2
+                    Avali_Female_5_6_4_3
+                    Avali_Female_5_6_4_4
+                    Avali_Female_5_6_4_5
+                    Avali_Female_5_6_4_6
+                    Avali_Female_5_6_4_7
+                    Avali_Female_5_6_4_8
+                    Avali_Female_5_6_4_9
+                    Avali_Female_5_6_4_10
+                    Avali_Female_5_6_4_11
+                    Avali_Female_5_6_4_12
+                    Avali_Female_5_6_4_13
+                    Avali_Female_5_6_4_14
+                    Avali_Female_5_6_4_15
+                    Avali_Female_5_6_4_16
+                    Avali_Female_5_6_4_17
+                    Avali_Female_5_6_4_18
+                    Avali_Female_6_6_4_1
+                    Avali_Female_6_6_4_2
+                    Avali_Female_6_6_4_3
+                    Avali_Female_6_6_4_4
+                    Avali_Female_6_6_4_5
+                    Avali_Female_6_6_4_6
+                    Avali_Female_6_6_4_7
+                    Avali_Female_6_6_4_8
+                    Avali_Female_6_6_4_9
+                    Avali_Female_6_6_4_10
+                    Avali_Female_6_6_4_11
+                    Avali_Female_6_6_4_12
+                    Avali_Female_6_6_4_13
+                    Avali_Female_6_6_4_14
+                    Avali_Female_6_6_4_15
+                    Avali_Female_6_6_4_16
+                    Avali_Female_6_6_4_17
+                    Avali_Female_6_6_4_18
                 }
             }
             add = {
@@ -97,26 +470,174 @@ portrait_groups = {
                     ruler = { gender = male }
                 }
                 portraits = {
-                    avali01
-                    avali02
-                    avali03
-                    avali04
-                    avali05
-                    avali06
-                    avali07
-                    avali08
-                    avali09
-                    avali10
-                    avali11
-                    avali12
-                    avali13
-                    avali14
-                    avali15
-                    avali16
-                    avali17
-                    avali18
-                    avali19
-                    avali20
+                    Avali_Neutral_1_1_1_1
+                    Avali_Neutral_1_2_2_2
+                    Avali_Neutral_1_3_3_3
+                    Avali_Neutral_1_4_4_4
+                    Avali_Neutral_1_5_5_5
+                    Avali_Neutral_1_6_6_6
+                    Avali_Neutral_1_7_7_7
+                    Avali_Neutral_1_8_8_8
+                    Avali_Neutral_1_9_9_9
+                    Avali_Neutral_1_10_10_10
+                    Avali_Neutral_2_1_1_1
+                    Avali_Neutral_2_2_2_2
+                    Avali_Neutral_2_3_3_3
+                    Avali_Neutral_2_4_4_4
+                    Avali_Neutral_2_5_5_5
+                    Avali_Neutral_2_6_6_6
+                    Avali_Neutral_2_7_7_7
+                    Avali_Neutral_2_8_8_8
+                    Avali_Neutral_2_9_9_9
+                    Avali_Neutral_2_10_10_10
+                    Avali_Neutral_3_1_1_1
+                    Avali_Neutral_3_2_2_2
+                    Avali_Neutral_3_3_3_3
+                    Avali_Neutral_3_4_4_4
+                    Avali_Neutral_3_5_5_5
+                    Avali_Neutral_3_6_6_6
+                    Avali_Neutral_3_7_7_7
+                    Avali_Neutral_3_8_8_8
+                    Avali_Neutral_3_9_9_9
+                    Avali_Neutral_3_10_10_10
+                    Avali_Neutral_4_1_1_1
+                    Avali_Neutral_4_2_2_2
+                    Avali_Neutral_4_3_3_3
+                    Avali_Neutral_4_4_4_4
+                    Avali_Neutral_4_5_5_5
+                    Avali_Neutral_4_6_6_6
+                    Avali_Neutral_4_7_7_7
+                    Avali_Neutral_4_8_8_8
+                    Avali_Neutral_4_9_9_9
+                    Avali_Neutral_4_10_10_10
+                    Avali_Neutral_5_1_1_1
+                    Avali_Neutral_5_2_2_2
+                    Avali_Neutral_5_3_3_3
+                    Avali_Neutral_5_4_4_4
+                    Avali_Neutral_5_5_5_5
+                    Avali_Neutral_5_6_6_6
+                    Avali_Neutral_5_7_7_7
+                    Avali_Neutral_5_8_8_8
+                    Avali_Neutral_5_9_9_9
+                    Avali_Neutral_5_10_10_10
+                    Avali_Neutral_6_1_1_1
+                    Avali_Neutral_6_2_2_2
+                    Avali_Neutral_6_3_3_3
+                    Avali_Neutral_6_4_4_4
+                    Avali_Neutral_6_5_5_5
+                    Avali_Neutral_6_6_6_6
+                    Avali_Neutral_6_7_7_7
+                    Avali_Neutral_6_8_8_8
+                    Avali_Neutral_6_9_9_9
+                    Avali_Neutral_6_10_10_10
+                    Avali_Male_1_6_4_1
+                    Avali_Male_1_6_4_2
+                    Avali_Male_1_6_4_3
+                    Avali_Male_1_6_4_4
+                    Avali_Male_1_6_4_5
+                    Avali_Male_1_6_4_6
+                    Avali_Male_1_6_4_7
+                    Avali_Male_1_6_4_8
+                    Avali_Male_1_6_4_9
+                    Avali_Male_1_6_4_10
+                    Avali_Male_1_6_4_11
+                    Avali_Male_1_6_4_12
+                    Avali_Male_1_6_4_13
+                    Avali_Male_1_6_4_14
+                    Avali_Male_1_6_4_15
+                    Avali_Male_1_6_4_16
+                    Avali_Male_1_6_4_17
+                    Avali_Male_1_6_4_18
+                    Avali_Male_2_6_4_1
+                    Avali_Male_2_6_4_2
+                    Avali_Male_2_6_4_3
+                    Avali_Male_2_6_4_4
+                    Avali_Male_2_6_4_5
+                    Avali_Male_2_6_4_6
+                    Avali_Male_2_6_4_7
+                    Avali_Male_2_6_4_8
+                    Avali_Male_2_6_4_9
+                    Avali_Male_2_6_4_10
+                    Avali_Male_2_6_4_11
+                    Avali_Male_2_6_4_12
+                    Avali_Male_2_6_4_13
+                    Avali_Male_2_6_4_14
+                    Avali_Male_2_6_4_15
+                    Avali_Male_2_6_4_16
+                    Avali_Male_2_6_4_17
+                    Avali_Male_2_6_4_18
+                    Avali_Male_3_6_4_1
+                    Avali_Male_3_6_4_2
+                    Avali_Male_3_6_4_3
+                    Avali_Male_3_6_4_4
+                    Avali_Male_3_6_4_5
+                    Avali_Male_3_6_4_6
+                    Avali_Male_3_6_4_7
+                    Avali_Male_3_6_4_8
+                    Avali_Male_3_6_4_9
+                    Avali_Male_3_6_4_10
+                    Avali_Male_3_6_4_11
+                    Avali_Male_3_6_4_12
+                    Avali_Male_3_6_4_13
+                    Avali_Male_3_6_4_14
+                    Avali_Male_3_6_4_15
+                    Avali_Male_3_6_4_16
+                    Avali_Male_3_6_4_17
+                    Avali_Male_3_6_4_18
+                    Avali_Male_4_6_4_1
+                    Avali_Male_4_6_4_2
+                    Avali_Male_4_6_4_3
+                    Avali_Male_4_6_4_4
+                    Avali_Male_4_6_4_5
+                    Avali_Male_4_6_4_6
+                    Avali_Male_4_6_4_7
+                    Avali_Male_4_6_4_8
+                    Avali_Male_4_6_4_9
+                    Avali_Male_4_6_4_10
+                    Avali_Male_4_6_4_11
+                    Avali_Male_4_6_4_12
+                    Avali_Male_4_6_4_13
+                    Avali_Male_4_6_4_14
+                    Avali_Male_4_6_4_15
+                    Avali_Male_4_6_4_16
+                    Avali_Male_4_6_4_17
+                    Avali_Male_4_6_4_18
+                    Avali_Male_5_6_4_1
+                    Avali_Male_5_6_4_2
+                    Avali_Male_5_6_4_3
+                    Avali_Male_5_6_4_4
+                    Avali_Male_5_6_4_5
+                    Avali_Male_5_6_4_6
+                    Avali_Male_5_6_4_7
+                    Avali_Male_5_6_4_8
+                    Avali_Male_5_6_4_9
+                    Avali_Male_5_6_4_10
+                    Avali_Male_5_6_4_11
+                    Avali_Male_5_6_4_12
+                    Avali_Male_5_6_4_13
+                    Avali_Male_5_6_4_14
+                    Avali_Male_5_6_4_15
+                    Avali_Male_5_6_4_16
+                    Avali_Male_5_6_4_17
+                    Avali_Male_5_6_4_18
+                    Avali_Male_6_6_4_1
+                    Avali_Male_6_6_4_2
+                    Avali_Male_6_6_4_3
+                    Avali_Male_6_6_4_4
+                    Avali_Male_6_6_4_5
+                    Avali_Male_6_6_4_6
+                    Avali_Male_6_6_4_7
+                    Avali_Male_6_6_4_8
+                    Avali_Male_6_6_4_9
+                    Avali_Male_6_6_4_10
+                    Avali_Male_6_6_4_11
+                    Avali_Male_6_6_4_12
+                    Avali_Male_6_6_4_13
+                    Avali_Male_6_6_4_14
+                    Avali_Male_6_6_4_15
+                    Avali_Male_6_6_4_16
+                    Avali_Male_6_6_4_17
+                    Avali_Male_6_6_4_18
                 }
             }
         }
@@ -124,26 +645,282 @@ portrait_groups = {
         species = { # generic portrait for a species
             add = {
                 portraits = { 
-                    avali01
-                    avali02
-                    avali03
-                    avali04
-                    avali05
-                    avali06
-                    avali07
-                    avali08
-                    avali09
-                    avali10
-                    avali11
-                    avali12
-                    avali13
-                    avali14
-                    avali15
-                    avali16
-                    avali17
-                    avali18
-                    avali19
-                    avali20
+                    Avali_Neutral_1_1_1_1
+                    Avali_Neutral_1_2_2_2
+                    Avali_Neutral_1_3_3_3
+                    Avali_Neutral_1_4_4_4
+                    Avali_Neutral_1_5_5_5
+                    Avali_Neutral_1_6_6_6
+                    Avali_Neutral_1_7_7_7
+                    Avali_Neutral_1_8_8_8
+                    Avali_Neutral_1_9_9_9
+                    Avali_Neutral_1_10_10_10
+                    Avali_Neutral_2_1_1_1
+                    Avali_Neutral_2_2_2_2
+                    Avali_Neutral_2_3_3_3
+                    Avali_Neutral_2_4_4_4
+                    Avali_Neutral_2_5_5_5
+                    Avali_Neutral_2_6_6_6
+                    Avali_Neutral_2_7_7_7
+                    Avali_Neutral_2_8_8_8
+                    Avali_Neutral_2_9_9_9
+                    Avali_Neutral_2_10_10_10
+                    Avali_Neutral_3_1_1_1
+                    Avali_Neutral_3_2_2_2
+                    Avali_Neutral_3_3_3_3
+                    Avali_Neutral_3_4_4_4
+                    Avali_Neutral_3_5_5_5
+                    Avali_Neutral_3_6_6_6
+                    Avali_Neutral_3_7_7_7
+                    Avali_Neutral_3_8_8_8
+                    Avali_Neutral_3_9_9_9
+                    Avali_Neutral_3_10_10_10
+                    Avali_Neutral_4_1_1_1
+                    Avali_Neutral_4_2_2_2
+                    Avali_Neutral_4_3_3_3
+                    Avali_Neutral_4_4_4_4
+                    Avali_Neutral_4_5_5_5
+                    Avali_Neutral_4_6_6_6
+                    Avali_Neutral_4_7_7_7
+                    Avali_Neutral_4_8_8_8
+                    Avali_Neutral_4_9_9_9
+                    Avali_Neutral_4_10_10_10
+                    Avali_Neutral_5_1_1_1
+                    Avali_Neutral_5_2_2_2
+                    Avali_Neutral_5_3_3_3
+                    Avali_Neutral_5_4_4_4
+                    Avali_Neutral_5_5_5_5
+                    Avali_Neutral_5_6_6_6
+                    Avali_Neutral_5_7_7_7
+                    Avali_Neutral_5_8_8_8
+                    Avali_Neutral_5_9_9_9
+                    Avali_Neutral_5_10_10_10
+                    Avali_Neutral_6_1_1_1
+                    Avali_Neutral_6_2_2_2
+                    Avali_Neutral_6_3_3_3
+                    Avali_Neutral_6_4_4_4
+                    Avali_Neutral_6_5_5_5
+                    Avali_Neutral_6_6_6_6
+                    Avali_Neutral_6_7_7_7
+                    Avali_Neutral_6_8_8_8
+                    Avali_Neutral_6_9_9_9
+                    Avali_Neutral_6_10_10_10
+                    Avali_Male_1_6_4_1
+                    Avali_Male_1_6_4_2
+                    Avali_Male_1_6_4_3
+                    Avali_Male_1_6_4_4
+                    Avali_Male_1_6_4_5
+                    Avali_Male_1_6_4_6
+                    Avali_Male_1_6_4_7
+                    Avali_Male_1_6_4_8
+                    Avali_Male_1_6_4_9
+                    Avali_Male_1_6_4_10
+                    Avali_Male_1_6_4_11
+                    Avali_Male_1_6_4_12
+                    Avali_Male_1_6_4_13
+                    Avali_Male_1_6_4_14
+                    Avali_Male_1_6_4_15
+                    Avali_Male_1_6_4_16
+                    Avali_Male_1_6_4_17
+                    Avali_Male_1_6_4_18
+                    Avali_Female_1_6_4_1
+                    Avali_Female_1_6_4_2
+                    Avali_Female_1_6_4_3
+                    Avali_Female_1_6_4_4
+                    Avali_Female_1_6_4_5
+                    Avali_Female_1_6_4_6
+                    Avali_Female_1_6_4_7
+                    Avali_Female_1_6_4_8
+                    Avali_Female_1_6_4_9
+                    Avali_Female_1_6_4_10
+                    Avali_Female_1_6_4_11
+                    Avali_Female_1_6_4_12
+                    Avali_Female_1_6_4_13
+                    Avali_Female_1_6_4_14
+                    Avali_Female_1_6_4_15
+                    Avali_Female_1_6_4_16
+                    Avali_Female_1_6_4_17
+                    Avali_Female_1_6_4_18
+                    Avali_Male_2_6_4_1
+                    Avali_Male_2_6_4_2
+                    Avali_Male_2_6_4_3
+                    Avali_Male_2_6_4_4
+                    Avali_Male_2_6_4_5
+                    Avali_Male_2_6_4_6
+                    Avali_Male_2_6_4_7
+                    Avali_Male_2_6_4_8
+                    Avali_Male_2_6_4_9
+                    Avali_Male_2_6_4_10
+                    Avali_Male_2_6_4_11
+                    Avali_Male_2_6_4_12
+                    Avali_Male_2_6_4_13
+                    Avali_Male_2_6_4_14
+                    Avali_Male_2_6_4_15
+                    Avali_Male_2_6_4_16
+                    Avali_Male_2_6_4_17
+                    Avali_Male_2_6_4_18
+                    Avali_Female_2_6_4_1
+                    Avali_Female_2_6_4_2
+                    Avali_Female_2_6_4_3
+                    Avali_Female_2_6_4_4
+                    Avali_Female_2_6_4_5
+                    Avali_Female_2_6_4_6
+                    Avali_Female_2_6_4_7
+                    Avali_Female_2_6_4_8
+                    Avali_Female_2_6_4_9
+                    Avali_Female_2_6_4_10
+                    Avali_Female_2_6_4_11
+                    Avali_Female_2_6_4_12
+                    Avali_Female_2_6_4_13
+                    Avali_Female_2_6_4_14
+                    Avali_Female_2_6_4_15
+                    Avali_Female_2_6_4_16
+                    Avali_Female_2_6_4_17
+                    Avali_Female_2_6_4_18
+                    Avali_Male_3_6_4_1
+                    Avali_Male_3_6_4_2
+                    Avali_Male_3_6_4_3
+                    Avali_Male_3_6_4_4
+                    Avali_Male_3_6_4_5
+                    Avali_Male_3_6_4_6
+                    Avali_Male_3_6_4_7
+                    Avali_Male_3_6_4_8
+                    Avali_Male_3_6_4_9
+                    Avali_Male_3_6_4_10
+                    Avali_Male_3_6_4_11
+                    Avali_Male_3_6_4_12
+                    Avali_Male_3_6_4_13
+                    Avali_Male_3_6_4_14
+                    Avali_Male_3_6_4_15
+                    Avali_Male_3_6_4_16
+                    Avali_Male_3_6_4_17
+                    Avali_Male_3_6_4_18
+                    Avali_Female_3_6_4_1
+                    Avali_Female_3_6_4_2
+                    Avali_Female_3_6_4_3
+                    Avali_Female_3_6_4_4
+                    Avali_Female_3_6_4_5
+                    Avali_Female_3_6_4_6
+                    Avali_Female_3_6_4_7
+                    Avali_Female_3_6_4_8
+                    Avali_Female_3_6_4_9
+                    Avali_Female_3_6_4_10
+                    Avali_Female_3_6_4_11
+                    Avali_Female_3_6_4_12
+                    Avali_Female_3_6_4_13
+                    Avali_Female_3_6_4_14
+                    Avali_Female_3_6_4_15
+                    Avali_Female_3_6_4_16
+                    Avali_Female_3_6_4_17
+                    Avali_Female_3_6_4_18
+                    Avali_Male_4_6_4_1
+                    Avali_Male_4_6_4_2
+                    Avali_Male_4_6_4_3
+                    Avali_Male_4_6_4_4
+                    Avali_Male_4_6_4_5
+                    Avali_Male_4_6_4_6
+                    Avali_Male_4_6_4_7
+                    Avali_Male_4_6_4_8
+                    Avali_Male_4_6_4_9
+                    Avali_Male_4_6_4_10
+                    Avali_Male_4_6_4_11
+                    Avali_Male_4_6_4_12
+                    Avali_Male_4_6_4_13
+                    Avali_Male_4_6_4_14
+                    Avali_Male_4_6_4_15
+                    Avali_Male_4_6_4_16
+                    Avali_Male_4_6_4_17
+                    Avali_Male_4_6_4_18
+                    Avali_Female_4_6_4_1
+                    Avali_Female_4_6_4_2
+                    Avali_Female_4_6_4_3
+                    Avali_Female_4_6_4_4
+                    Avali_Female_4_6_4_5
+                    Avali_Female_4_6_4_6
+                    Avali_Female_4_6_4_7
+                    Avali_Female_4_6_4_8
+                    Avali_Female_4_6_4_9
+                    Avali_Female_4_6_4_10
+                    Avali_Female_4_6_4_11
+                    Avali_Female_4_6_4_12
+                    Avali_Female_4_6_4_13
+                    Avali_Female_4_6_4_14
+                    Avali_Female_4_6_4_15
+                    Avali_Female_4_6_4_16
+                    Avali_Female_4_6_4_17
+                    Avali_Female_4_6_4_18
+                    Avali_Male_5_6_4_1
+                    Avali_Male_5_6_4_2
+                    Avali_Male_5_6_4_3
+                    Avali_Male_5_6_4_4
+                    Avali_Male_5_6_4_5
+                    Avali_Male_5_6_4_6
+                    Avali_Male_5_6_4_7
+                    Avali_Male_5_6_4_8
+                    Avali_Male_5_6_4_9
+                    Avali_Male_5_6_4_10
+                    Avali_Male_5_6_4_11
+                    Avali_Male_5_6_4_12
+                    Avali_Male_5_6_4_13
+                    Avali_Male_5_6_4_14
+                    Avali_Male_5_6_4_15
+                    Avali_Male_5_6_4_16
+                    Avali_Male_5_6_4_17
+                    Avali_Male_5_6_4_18
+                    Avali_Female_5_6_4_1
+                    Avali_Female_5_6_4_2
+                    Avali_Female_5_6_4_3
+                    Avali_Female_5_6_4_4
+                    Avali_Female_5_6_4_5
+                    Avali_Female_5_6_4_6
+                    Avali_Female_5_6_4_7
+                    Avali_Female_5_6_4_8
+                    Avali_Female_5_6_4_9
+                    Avali_Female_5_6_4_10
+                    Avali_Female_5_6_4_11
+                    Avali_Female_5_6_4_12
+                    Avali_Female_5_6_4_13
+                    Avali_Female_5_6_4_14
+                    Avali_Female_5_6_4_15
+                    Avali_Female_5_6_4_16
+                    Avali_Female_5_6_4_17
+                    Avali_Female_5_6_4_18
+                    Avali_Male_6_6_4_1
+                    Avali_Male_6_6_4_2
+                    Avali_Male_6_6_4_3
+                    Avali_Male_6_6_4_4
+                    Avali_Male_6_6_4_5
+                    Avali_Male_6_6_4_6
+                    Avali_Male_6_6_4_7
+                    Avali_Male_6_6_4_8
+                    Avali_Male_6_6_4_9
+                    Avali_Male_6_6_4_10
+                    Avali_Male_6_6_4_11
+                    Avali_Male_6_6_4_12
+                    Avali_Male_6_6_4_13
+                    Avali_Male_6_6_4_14
+                    Avali_Male_6_6_4_15
+                    Avali_Male_6_6_4_16
+                    Avali_Male_6_6_4_17
+                    Avali_Male_6_6_4_18
+                    Avali_Female_6_6_4_1
+                    Avali_Female_6_6_4_2
+                    Avali_Female_6_6_4_3
+                    Avali_Female_6_6_4_4
+                    Avali_Female_6_6_4_5
+                    Avali_Female_6_6_4_6
+                    Avali_Female_6_6_4_7
+                    Avali_Female_6_6_4_8
+                    Avali_Female_6_6_4_9
+                    Avali_Female_6_6_4_10
+                    Avali_Female_6_6_4_11
+                    Avali_Female_6_6_4_12
+                    Avali_Female_6_6_4_13
+                    Avali_Female_6_6_4_14
+                    Avali_Female_6_6_4_15
+                    Avali_Female_6_6_4_16
+                    Avali_Female_6_6_4_17
+                    Avali_Female_6_6_4_18
                 }
             }
         }
@@ -151,26 +928,282 @@ portrait_groups = {
         pop = { # for planet-bound pops
             add = {
                 portraits = {
-                    avali01
-                    avali02
-                    avali03
-                    avali04
-                    avali05
-                    avali06
-                    avali07
-                    avali08
-                    avali09
-                    avali10
-                    avali11
-                    avali12
-                    avali13
-                    avali14
-                    avali15
-                    avali16
-                    avali17
-                    avali18
-                    avali19
-                    avali20
+                    Avali_Neutral_1_1_1_1
+                    Avali_Neutral_1_2_2_2
+                    Avali_Neutral_1_3_3_3
+                    Avali_Neutral_1_4_4_4
+                    Avali_Neutral_1_5_5_5
+                    Avali_Neutral_1_6_6_6
+                    Avali_Neutral_1_7_7_7
+                    Avali_Neutral_1_8_8_8
+                    Avali_Neutral_1_9_9_9
+                    Avali_Neutral_1_10_10_10
+                    Avali_Neutral_2_1_1_1
+                    Avali_Neutral_2_2_2_2
+                    Avali_Neutral_2_3_3_3
+                    Avali_Neutral_2_4_4_4
+                    Avali_Neutral_2_5_5_5
+                    Avali_Neutral_2_6_6_6
+                    Avali_Neutral_2_7_7_7
+                    Avali_Neutral_2_8_8_8
+                    Avali_Neutral_2_9_9_9
+                    Avali_Neutral_2_10_10_10
+                    Avali_Neutral_3_1_1_1
+                    Avali_Neutral_3_2_2_2
+                    Avali_Neutral_3_3_3_3
+                    Avali_Neutral_3_4_4_4
+                    Avali_Neutral_3_5_5_5
+                    Avali_Neutral_3_6_6_6
+                    Avali_Neutral_3_7_7_7
+                    Avali_Neutral_3_8_8_8
+                    Avali_Neutral_3_9_9_9
+                    Avali_Neutral_3_10_10_10
+                    Avali_Neutral_4_1_1_1
+                    Avali_Neutral_4_2_2_2
+                    Avali_Neutral_4_3_3_3
+                    Avali_Neutral_4_4_4_4
+                    Avali_Neutral_4_5_5_5
+                    Avali_Neutral_4_6_6_6
+                    Avali_Neutral_4_7_7_7
+                    Avali_Neutral_4_8_8_8
+                    Avali_Neutral_4_9_9_9
+                    Avali_Neutral_4_10_10_10
+                    Avali_Neutral_5_1_1_1
+                    Avali_Neutral_5_2_2_2
+                    Avali_Neutral_5_3_3_3
+                    Avali_Neutral_5_4_4_4
+                    Avali_Neutral_5_5_5_5
+                    Avali_Neutral_5_6_6_6
+                    Avali_Neutral_5_7_7_7
+                    Avali_Neutral_5_8_8_8
+                    Avali_Neutral_5_9_9_9
+                    Avali_Neutral_5_10_10_10
+                    Avali_Neutral_6_1_1_1
+                    Avali_Neutral_6_2_2_2
+                    Avali_Neutral_6_3_3_3
+                    Avali_Neutral_6_4_4_4
+                    Avali_Neutral_6_5_5_5
+                    Avali_Neutral_6_6_6_6
+                    Avali_Neutral_6_7_7_7
+                    Avali_Neutral_6_8_8_8
+                    Avali_Neutral_6_9_9_9
+                    Avali_Neutral_6_10_10_10
+                    Avali_Male_1_6_4_1
+                    Avali_Male_1_6_4_2
+                    Avali_Male_1_6_4_3
+                    Avali_Male_1_6_4_4
+                    Avali_Male_1_6_4_5
+                    Avali_Male_1_6_4_6
+                    Avali_Male_1_6_4_7
+                    Avali_Male_1_6_4_8
+                    Avali_Male_1_6_4_9
+                    Avali_Male_1_6_4_10
+                    Avali_Male_1_6_4_11
+                    Avali_Male_1_6_4_12
+                    Avali_Male_1_6_4_13
+                    Avali_Male_1_6_4_14
+                    Avali_Male_1_6_4_15
+                    Avali_Male_1_6_4_16
+                    Avali_Male_1_6_4_17
+                    Avali_Male_1_6_4_18
+                    Avali_Female_1_6_4_1
+                    Avali_Female_1_6_4_2
+                    Avali_Female_1_6_4_3
+                    Avali_Female_1_6_4_4
+                    Avali_Female_1_6_4_5
+                    Avali_Female_1_6_4_6
+                    Avali_Female_1_6_4_7
+                    Avali_Female_1_6_4_8
+                    Avali_Female_1_6_4_9
+                    Avali_Female_1_6_4_10
+                    Avali_Female_1_6_4_11
+                    Avali_Female_1_6_4_12
+                    Avali_Female_1_6_4_13
+                    Avali_Female_1_6_4_14
+                    Avali_Female_1_6_4_15
+                    Avali_Female_1_6_4_16
+                    Avali_Female_1_6_4_17
+                    Avali_Female_1_6_4_18
+                    Avali_Male_2_6_4_1
+                    Avali_Male_2_6_4_2
+                    Avali_Male_2_6_4_3
+                    Avali_Male_2_6_4_4
+                    Avali_Male_2_6_4_5
+                    Avali_Male_2_6_4_6
+                    Avali_Male_2_6_4_7
+                    Avali_Male_2_6_4_8
+                    Avali_Male_2_6_4_9
+                    Avali_Male_2_6_4_10
+                    Avali_Male_2_6_4_11
+                    Avali_Male_2_6_4_12
+                    Avali_Male_2_6_4_13
+                    Avali_Male_2_6_4_14
+                    Avali_Male_2_6_4_15
+                    Avali_Male_2_6_4_16
+                    Avali_Male_2_6_4_17
+                    Avali_Male_2_6_4_18
+                    Avali_Female_2_6_4_1
+                    Avali_Female_2_6_4_2
+                    Avali_Female_2_6_4_3
+                    Avali_Female_2_6_4_4
+                    Avali_Female_2_6_4_5
+                    Avali_Female_2_6_4_6
+                    Avali_Female_2_6_4_7
+                    Avali_Female_2_6_4_8
+                    Avali_Female_2_6_4_9
+                    Avali_Female_2_6_4_10
+                    Avali_Female_2_6_4_11
+                    Avali_Female_2_6_4_12
+                    Avali_Female_2_6_4_13
+                    Avali_Female_2_6_4_14
+                    Avali_Female_2_6_4_15
+                    Avali_Female_2_6_4_16
+                    Avali_Female_2_6_4_17
+                    Avali_Female_2_6_4_18
+                    Avali_Male_3_6_4_1
+                    Avali_Male_3_6_4_2
+                    Avali_Male_3_6_4_3
+                    Avali_Male_3_6_4_4
+                    Avali_Male_3_6_4_5
+                    Avali_Male_3_6_4_6
+                    Avali_Male_3_6_4_7
+                    Avali_Male_3_6_4_8
+                    Avali_Male_3_6_4_9
+                    Avali_Male_3_6_4_10
+                    Avali_Male_3_6_4_11
+                    Avali_Male_3_6_4_12
+                    Avali_Male_3_6_4_13
+                    Avali_Male_3_6_4_14
+                    Avali_Male_3_6_4_15
+                    Avali_Male_3_6_4_16
+                    Avali_Male_3_6_4_17
+                    Avali_Male_3_6_4_18
+                    Avali_Female_3_6_4_1
+                    Avali_Female_3_6_4_2
+                    Avali_Female_3_6_4_3
+                    Avali_Female_3_6_4_4
+                    Avali_Female_3_6_4_5
+                    Avali_Female_3_6_4_6
+                    Avali_Female_3_6_4_7
+                    Avali_Female_3_6_4_8
+                    Avali_Female_3_6_4_9
+                    Avali_Female_3_6_4_10
+                    Avali_Female_3_6_4_11
+                    Avali_Female_3_6_4_12
+                    Avali_Female_3_6_4_13
+                    Avali_Female_3_6_4_14
+                    Avali_Female_3_6_4_15
+                    Avali_Female_3_6_4_16
+                    Avali_Female_3_6_4_17
+                    Avali_Female_3_6_4_18
+                    Avali_Male_4_6_4_1
+                    Avali_Male_4_6_4_2
+                    Avali_Male_4_6_4_3
+                    Avali_Male_4_6_4_4
+                    Avali_Male_4_6_4_5
+                    Avali_Male_4_6_4_6
+                    Avali_Male_4_6_4_7
+                    Avali_Male_4_6_4_8
+                    Avali_Male_4_6_4_9
+                    Avali_Male_4_6_4_10
+                    Avali_Male_4_6_4_11
+                    Avali_Male_4_6_4_12
+                    Avali_Male_4_6_4_13
+                    Avali_Male_4_6_4_14
+                    Avali_Male_4_6_4_15
+                    Avali_Male_4_6_4_16
+                    Avali_Male_4_6_4_17
+                    Avali_Male_4_6_4_18
+                    Avali_Female_4_6_4_1
+                    Avali_Female_4_6_4_2
+                    Avali_Female_4_6_4_3
+                    Avali_Female_4_6_4_4
+                    Avali_Female_4_6_4_5
+                    Avali_Female_4_6_4_6
+                    Avali_Female_4_6_4_7
+                    Avali_Female_4_6_4_8
+                    Avali_Female_4_6_4_9
+                    Avali_Female_4_6_4_10
+                    Avali_Female_4_6_4_11
+                    Avali_Female_4_6_4_12
+                    Avali_Female_4_6_4_13
+                    Avali_Female_4_6_4_14
+                    Avali_Female_4_6_4_15
+                    Avali_Female_4_6_4_16
+                    Avali_Female_4_6_4_17
+                    Avali_Female_4_6_4_18
+                    Avali_Male_5_6_4_1
+                    Avali_Male_5_6_4_2
+                    Avali_Male_5_6_4_3
+                    Avali_Male_5_6_4_4
+                    Avali_Male_5_6_4_5
+                    Avali_Male_5_6_4_6
+                    Avali_Male_5_6_4_7
+                    Avali_Male_5_6_4_8
+                    Avali_Male_5_6_4_9
+                    Avali_Male_5_6_4_10
+                    Avali_Male_5_6_4_11
+                    Avali_Male_5_6_4_12
+                    Avali_Male_5_6_4_13
+                    Avali_Male_5_6_4_14
+                    Avali_Male_5_6_4_15
+                    Avali_Male_5_6_4_16
+                    Avali_Male_5_6_4_17
+                    Avali_Male_5_6_4_18
+                    Avali_Female_5_6_4_1
+                    Avali_Female_5_6_4_2
+                    Avali_Female_5_6_4_3
+                    Avali_Female_5_6_4_4
+                    Avali_Female_5_6_4_5
+                    Avali_Female_5_6_4_6
+                    Avali_Female_5_6_4_7
+                    Avali_Female_5_6_4_8
+                    Avali_Female_5_6_4_9
+                    Avali_Female_5_6_4_10
+                    Avali_Female_5_6_4_11
+                    Avali_Female_5_6_4_12
+                    Avali_Female_5_6_4_13
+                    Avali_Female_5_6_4_14
+                    Avali_Female_5_6_4_15
+                    Avali_Female_5_6_4_16
+                    Avali_Female_5_6_4_17
+                    Avali_Female_5_6_4_18
+                    Avali_Male_6_6_4_1
+                    Avali_Male_6_6_4_2
+                    Avali_Male_6_6_4_3
+                    Avali_Male_6_6_4_4
+                    Avali_Male_6_6_4_5
+                    Avali_Male_6_6_4_6
+                    Avali_Male_6_6_4_7
+                    Avali_Male_6_6_4_8
+                    Avali_Male_6_6_4_9
+                    Avali_Male_6_6_4_10
+                    Avali_Male_6_6_4_11
+                    Avali_Male_6_6_4_12
+                    Avali_Male_6_6_4_13
+                    Avali_Male_6_6_4_14
+                    Avali_Male_6_6_4_15
+                    Avali_Male_6_6_4_16
+                    Avali_Male_6_6_4_17
+                    Avali_Male_6_6_4_18
+                    Avali_Female_6_6_4_1
+                    Avali_Female_6_6_4_2
+                    Avali_Female_6_6_4_3
+                    Avali_Female_6_6_4_4
+                    Avali_Female_6_6_4_5
+                    Avali_Female_6_6_4_6
+                    Avali_Female_6_6_4_7
+                    Avali_Female_6_6_4_8
+                    Avali_Female_6_6_4_9
+                    Avali_Female_6_6_4_10
+                    Avali_Female_6_6_4_11
+                    Avali_Female_6_6_4_12
+                    Avali_Female_6_6_4_13
+                    Avali_Female_6_6_4_14
+                    Avali_Female_6_6_4_15
+                    Avali_Female_6_6_4_16
+                    Avali_Female_6_6_4_17
+                    Avali_Female_6_6_4_18
                 }
             }
         }
@@ -181,26 +1214,174 @@ portrait_groups = {
                     gender = female
                 }
                 portraits = {
-                    avali01
-                    avali02
-                    avali03
-                    avali04
-                    avali05
-                    avali06
-                    avali07
-                    avali08
-                    avali09
-                    avali10
-                    avali11
-                    avali12
-                    avali13
-                    avali14
-                    avali15
-                    avali16
-                    avali17
-                    avali18
-                    avali19
-                    avali20
+                    Avali_Neutral_1_1_1_1
+                    Avali_Neutral_1_2_2_2
+                    Avali_Neutral_1_3_3_3
+                    Avali_Neutral_1_4_4_4
+                    Avali_Neutral_1_5_5_5
+                    Avali_Neutral_1_6_6_6
+                    Avali_Neutral_1_7_7_7
+                    Avali_Neutral_1_8_8_8
+                    Avali_Neutral_1_9_9_9
+                    Avali_Neutral_1_10_10_10
+                    Avali_Neutral_2_1_1_1
+                    Avali_Neutral_2_2_2_2
+                    Avali_Neutral_2_3_3_3
+                    Avali_Neutral_2_4_4_4
+                    Avali_Neutral_2_5_5_5
+                    Avali_Neutral_2_6_6_6
+                    Avali_Neutral_2_7_7_7
+                    Avali_Neutral_2_8_8_8
+                    Avali_Neutral_2_9_9_9
+                    Avali_Neutral_2_10_10_10
+                    Avali_Neutral_3_1_1_1
+                    Avali_Neutral_3_2_2_2
+                    Avali_Neutral_3_3_3_3
+                    Avali_Neutral_3_4_4_4
+                    Avali_Neutral_3_5_5_5
+                    Avali_Neutral_3_6_6_6
+                    Avali_Neutral_3_7_7_7
+                    Avali_Neutral_3_8_8_8
+                    Avali_Neutral_3_9_9_9
+                    Avali_Neutral_3_10_10_10
+                    Avali_Neutral_4_1_1_1
+                    Avali_Neutral_4_2_2_2
+                    Avali_Neutral_4_3_3_3
+                    Avali_Neutral_4_4_4_4
+                    Avali_Neutral_4_5_5_5
+                    Avali_Neutral_4_6_6_6
+                    Avali_Neutral_4_7_7_7
+                    Avali_Neutral_4_8_8_8
+                    Avali_Neutral_4_9_9_9
+                    Avali_Neutral_4_10_10_10
+                    Avali_Neutral_5_1_1_1
+                    Avali_Neutral_5_2_2_2
+                    Avali_Neutral_5_3_3_3
+                    Avali_Neutral_5_4_4_4
+                    Avali_Neutral_5_5_5_5
+                    Avali_Neutral_5_6_6_6
+                    Avali_Neutral_5_7_7_7
+                    Avali_Neutral_5_8_8_8
+                    Avali_Neutral_5_9_9_9
+                    Avali_Neutral_5_10_10_10
+                    Avali_Neutral_6_1_1_1
+                    Avali_Neutral_6_2_2_2
+                    Avali_Neutral_6_3_3_3
+                    Avali_Neutral_6_4_4_4
+                    Avali_Neutral_6_5_5_5
+                    Avali_Neutral_6_6_6_6
+                    Avali_Neutral_6_7_7_7
+                    Avali_Neutral_6_8_8_8
+                    Avali_Neutral_6_9_9_9
+                    Avali_Neutral_6_10_10_10
+                    Avali_Female_1_6_4_1
+                    Avali_Female_1_6_4_2
+                    Avali_Female_1_6_4_3
+                    Avali_Female_1_6_4_4
+                    Avali_Female_1_6_4_5
+                    Avali_Female_1_6_4_6
+                    Avali_Female_1_6_4_7
+                    Avali_Female_1_6_4_8
+                    Avali_Female_1_6_4_9
+                    Avali_Female_1_6_4_10
+                    Avali_Female_1_6_4_11
+                    Avali_Female_1_6_4_12
+                    Avali_Female_1_6_4_13
+                    Avali_Female_1_6_4_14
+                    Avali_Female_1_6_4_15
+                    Avali_Female_1_6_4_16
+                    Avali_Female_1_6_4_17
+                    Avali_Female_1_6_4_18
+                    Avali_Female_2_6_4_1
+                    Avali_Female_2_6_4_2
+                    Avali_Female_2_6_4_3
+                    Avali_Female_2_6_4_4
+                    Avali_Female_2_6_4_5
+                    Avali_Female_2_6_4_6
+                    Avali_Female_2_6_4_7
+                    Avali_Female_2_6_4_8
+                    Avali_Female_2_6_4_9
+                    Avali_Female_2_6_4_10
+                    Avali_Female_2_6_4_11
+                    Avali_Female_2_6_4_12
+                    Avali_Female_2_6_4_13
+                    Avali_Female_2_6_4_14
+                    Avali_Female_2_6_4_15
+                    Avali_Female_2_6_4_16
+                    Avali_Female_2_6_4_17
+                    Avali_Female_2_6_4_18
+                    Avali_Female_3_6_4_1
+                    Avali_Female_3_6_4_2
+                    Avali_Female_3_6_4_3
+                    Avali_Female_3_6_4_4
+                    Avali_Female_3_6_4_5
+                    Avali_Female_3_6_4_6
+                    Avali_Female_3_6_4_7
+                    Avali_Female_3_6_4_8
+                    Avali_Female_3_6_4_9
+                    Avali_Female_3_6_4_10
+                    Avali_Female_3_6_4_11
+                    Avali_Female_3_6_4_12
+                    Avali_Female_3_6_4_13
+                    Avali_Female_3_6_4_14
+                    Avali_Female_3_6_4_15
+                    Avali_Female_3_6_4_16
+                    Avali_Female_3_6_4_17
+                    Avali_Female_3_6_4_18
+                    Avali_Female_4_6_4_1
+                    Avali_Female_4_6_4_2
+                    Avali_Female_4_6_4_3
+                    Avali_Female_4_6_4_4
+                    Avali_Female_4_6_4_5
+                    Avali_Female_4_6_4_6
+                    Avali_Female_4_6_4_7
+                    Avali_Female_4_6_4_8
+                    Avali_Female_4_6_4_9
+                    Avali_Female_4_6_4_10
+                    Avali_Female_4_6_4_11
+                    Avali_Female_4_6_4_12
+                    Avali_Female_4_6_4_13
+                    Avali_Female_4_6_4_14
+                    Avali_Female_4_6_4_15
+                    Avali_Female_4_6_4_16
+                    Avali_Female_4_6_4_17
+                    Avali_Female_4_6_4_18
+                    Avali_Female_5_6_4_1
+                    Avali_Female_5_6_4_2
+                    Avali_Female_5_6_4_3
+                    Avali_Female_5_6_4_4
+                    Avali_Female_5_6_4_5
+                    Avali_Female_5_6_4_6
+                    Avali_Female_5_6_4_7
+                    Avali_Female_5_6_4_8
+                    Avali_Female_5_6_4_9
+                    Avali_Female_5_6_4_10
+                    Avali_Female_5_6_4_11
+                    Avali_Female_5_6_4_12
+                    Avali_Female_5_6_4_13
+                    Avali_Female_5_6_4_14
+                    Avali_Female_5_6_4_15
+                    Avali_Female_5_6_4_16
+                    Avali_Female_5_6_4_17
+                    Avali_Female_5_6_4_18
+                    Avali_Female_6_6_4_1
+                    Avali_Female_6_6_4_2
+                    Avali_Female_6_6_4_3
+                    Avali_Female_6_6_4_4
+                    Avali_Female_6_6_4_5
+                    Avali_Female_6_6_4_6
+                    Avali_Female_6_6_4_7
+                    Avali_Female_6_6_4_8
+                    Avali_Female_6_6_4_9
+                    Avali_Female_6_6_4_10
+                    Avali_Female_6_6_4_11
+                    Avali_Female_6_6_4_12
+                    Avali_Female_6_6_4_13
+                    Avali_Female_6_6_4_14
+                    Avali_Female_6_6_4_15
+                    Avali_Female_6_6_4_16
+                    Avali_Female_6_6_4_17
+                    Avali_Female_6_6_4_18
                 }
             }
             add = {
@@ -208,26 +1389,174 @@ portrait_groups = {
                     gender = male
                 }
                 portraits = {
-                    avali01
-                    avali02
-                    avali03
-                    avali04
-                    avali05
-                    avali06
-                    avali07
-                    avali08
-                    avali09
-                    avali10
-                    avali11
-                    avali12
-                    avali13
-                    avali14
-                    avali15
-                    avali16
-                    avali17
-                    avali18
-                    avali19
-                    avali20
+                    Avali_Neutral_1_1_1_1
+                    Avali_Neutral_1_2_2_2
+                    Avali_Neutral_1_3_3_3
+                    Avali_Neutral_1_4_4_4
+                    Avali_Neutral_1_5_5_5
+                    Avali_Neutral_1_6_6_6
+                    Avali_Neutral_1_7_7_7
+                    Avali_Neutral_1_8_8_8
+                    Avali_Neutral_1_9_9_9
+                    Avali_Neutral_1_10_10_10
+                    Avali_Neutral_2_1_1_1
+                    Avali_Neutral_2_2_2_2
+                    Avali_Neutral_2_3_3_3
+                    Avali_Neutral_2_4_4_4
+                    Avali_Neutral_2_5_5_5
+                    Avali_Neutral_2_6_6_6
+                    Avali_Neutral_2_7_7_7
+                    Avali_Neutral_2_8_8_8
+                    Avali_Neutral_2_9_9_9
+                    Avali_Neutral_2_10_10_10
+                    Avali_Neutral_3_1_1_1
+                    Avali_Neutral_3_2_2_2
+                    Avali_Neutral_3_3_3_3
+                    Avali_Neutral_3_4_4_4
+                    Avali_Neutral_3_5_5_5
+                    Avali_Neutral_3_6_6_6
+                    Avali_Neutral_3_7_7_7
+                    Avali_Neutral_3_8_8_8
+                    Avali_Neutral_3_9_9_9
+                    Avali_Neutral_3_10_10_10
+                    Avali_Neutral_4_1_1_1
+                    Avali_Neutral_4_2_2_2
+                    Avali_Neutral_4_3_3_3
+                    Avali_Neutral_4_4_4_4
+                    Avali_Neutral_4_5_5_5
+                    Avali_Neutral_4_6_6_6
+                    Avali_Neutral_4_7_7_7
+                    Avali_Neutral_4_8_8_8
+                    Avali_Neutral_4_9_9_9
+                    Avali_Neutral_4_10_10_10
+                    Avali_Neutral_5_1_1_1
+                    Avali_Neutral_5_2_2_2
+                    Avali_Neutral_5_3_3_3
+                    Avali_Neutral_5_4_4_4
+                    Avali_Neutral_5_5_5_5
+                    Avali_Neutral_5_6_6_6
+                    Avali_Neutral_5_7_7_7
+                    Avali_Neutral_5_8_8_8
+                    Avali_Neutral_5_9_9_9
+                    Avali_Neutral_5_10_10_10
+                    Avali_Neutral_6_1_1_1
+                    Avali_Neutral_6_2_2_2
+                    Avali_Neutral_6_3_3_3
+                    Avali_Neutral_6_4_4_4
+                    Avali_Neutral_6_5_5_5
+                    Avali_Neutral_6_6_6_6
+                    Avali_Neutral_6_7_7_7
+                    Avali_Neutral_6_8_8_8
+                    Avali_Neutral_6_9_9_9
+                    Avali_Neutral_6_10_10_10
+                    Avali_Male_1_6_4_1
+                    Avali_Male_1_6_4_2
+                    Avali_Male_1_6_4_3
+                    Avali_Male_1_6_4_4
+                    Avali_Male_1_6_4_5
+                    Avali_Male_1_6_4_6
+                    Avali_Male_1_6_4_7
+                    Avali_Male_1_6_4_8
+                    Avali_Male_1_6_4_9
+                    Avali_Male_1_6_4_10
+                    Avali_Male_1_6_4_11
+                    Avali_Male_1_6_4_12
+                    Avali_Male_1_6_4_13
+                    Avali_Male_1_6_4_14
+                    Avali_Male_1_6_4_15
+                    Avali_Male_1_6_4_16
+                    Avali_Male_1_6_4_17
+                    Avali_Male_1_6_4_18
+                    Avali_Male_2_6_4_1
+                    Avali_Male_2_6_4_2
+                    Avali_Male_2_6_4_3
+                    Avali_Male_2_6_4_4
+                    Avali_Male_2_6_4_5
+                    Avali_Male_2_6_4_6
+                    Avali_Male_2_6_4_7
+                    Avali_Male_2_6_4_8
+                    Avali_Male_2_6_4_9
+                    Avali_Male_2_6_4_10
+                    Avali_Male_2_6_4_11
+                    Avali_Male_2_6_4_12
+                    Avali_Male_2_6_4_13
+                    Avali_Male_2_6_4_14
+                    Avali_Male_2_6_4_15
+                    Avali_Male_2_6_4_16
+                    Avali_Male_2_6_4_17
+                    Avali_Male_2_6_4_18
+                    Avali_Male_3_6_4_1
+                    Avali_Male_3_6_4_2
+                    Avali_Male_3_6_4_3
+                    Avali_Male_3_6_4_4
+                    Avali_Male_3_6_4_5
+                    Avali_Male_3_6_4_6
+                    Avali_Male_3_6_4_7
+                    Avali_Male_3_6_4_8
+                    Avali_Male_3_6_4_9
+                    Avali_Male_3_6_4_10
+                    Avali_Male_3_6_4_11
+                    Avali_Male_3_6_4_12
+                    Avali_Male_3_6_4_13
+                    Avali_Male_3_6_4_14
+                    Avali_Male_3_6_4_15
+                    Avali_Male_3_6_4_16
+                    Avali_Male_3_6_4_17
+                    Avali_Male_3_6_4_18
+                    Avali_Male_4_6_4_1
+                    Avali_Male_4_6_4_2
+                    Avali_Male_4_6_4_3
+                    Avali_Male_4_6_4_4
+                    Avali_Male_4_6_4_5
+                    Avali_Male_4_6_4_6
+                    Avali_Male_4_6_4_7
+                    Avali_Male_4_6_4_8
+                    Avali_Male_4_6_4_9
+                    Avali_Male_4_6_4_10
+                    Avali_Male_4_6_4_11
+                    Avali_Male_4_6_4_12
+                    Avali_Male_4_6_4_13
+                    Avali_Male_4_6_4_14
+                    Avali_Male_4_6_4_15
+                    Avali_Male_4_6_4_16
+                    Avali_Male_4_6_4_17
+                    Avali_Male_4_6_4_18
+                    Avali_Male_5_6_4_1
+                    Avali_Male_5_6_4_2
+                    Avali_Male_5_6_4_3
+                    Avali_Male_5_6_4_4
+                    Avali_Male_5_6_4_5
+                    Avali_Male_5_6_4_6
+                    Avali_Male_5_6_4_7
+                    Avali_Male_5_6_4_8
+                    Avali_Male_5_6_4_9
+                    Avali_Male_5_6_4_10
+                    Avali_Male_5_6_4_11
+                    Avali_Male_5_6_4_12
+                    Avali_Male_5_6_4_13
+                    Avali_Male_5_6_4_14
+                    Avali_Male_5_6_4_15
+                    Avali_Male_5_6_4_16
+                    Avali_Male_5_6_4_17
+                    Avali_Male_5_6_4_18
+                    Avali_Male_6_6_4_1
+                    Avali_Male_6_6_4_2
+                    Avali_Male_6_6_4_3
+                    Avali_Male_6_6_4_4
+                    Avali_Male_6_6_4_5
+                    Avali_Male_6_6_4_6
+                    Avali_Male_6_6_4_7
+                    Avali_Male_6_6_4_8
+                    Avali_Male_6_6_4_9
+                    Avali_Male_6_6_4_10
+                    Avali_Male_6_6_4_11
+                    Avali_Male_6_6_4_12
+                    Avali_Male_6_6_4_13
+                    Avali_Male_6_6_4_14
+                    Avali_Male_6_6_4_15
+                    Avali_Male_6_6_4_16
+                    Avali_Male_6_6_4_17
+                    Avali_Male_6_6_4_18
                 }
             }
         }
@@ -238,26 +1567,174 @@ portrait_groups = {
                     gender = female
                 }
                 portraits = {
-                    avali01
-                    avali02
-                    avali03
-                    avali04
-                    avali05
-                    avali06
-                    avali07
-                    avali08
-                    avali09
-                    avali10
-                    avali11
-                    avali12
-                    avali13
-                    avali14
-                    avali15
-                    avali16
-                    avali17
-                    avali18
-                    avali19
-                    avali20
+                    Avali_Neutral_1_1_1_1
+                    Avali_Neutral_1_2_2_2
+                    Avali_Neutral_1_3_3_3
+                    Avali_Neutral_1_4_4_4
+                    Avali_Neutral_1_5_5_5
+                    Avali_Neutral_1_6_6_6
+                    Avali_Neutral_1_7_7_7
+                    Avali_Neutral_1_8_8_8
+                    Avali_Neutral_1_9_9_9
+                    Avali_Neutral_1_10_10_10
+                    Avali_Neutral_2_1_1_1
+                    Avali_Neutral_2_2_2_2
+                    Avali_Neutral_2_3_3_3
+                    Avali_Neutral_2_4_4_4
+                    Avali_Neutral_2_5_5_5
+                    Avali_Neutral_2_6_6_6
+                    Avali_Neutral_2_7_7_7
+                    Avali_Neutral_2_8_8_8
+                    Avali_Neutral_2_9_9_9
+                    Avali_Neutral_2_10_10_10
+                    Avali_Neutral_3_1_1_1
+                    Avali_Neutral_3_2_2_2
+                    Avali_Neutral_3_3_3_3
+                    Avali_Neutral_3_4_4_4
+                    Avali_Neutral_3_5_5_5
+                    Avali_Neutral_3_6_6_6
+                    Avali_Neutral_3_7_7_7
+                    Avali_Neutral_3_8_8_8
+                    Avali_Neutral_3_9_9_9
+                    Avali_Neutral_3_10_10_10
+                    Avali_Neutral_4_1_1_1
+                    Avali_Neutral_4_2_2_2
+                    Avali_Neutral_4_3_3_3
+                    Avali_Neutral_4_4_4_4
+                    Avali_Neutral_4_5_5_5
+                    Avali_Neutral_4_6_6_6
+                    Avali_Neutral_4_7_7_7
+                    Avali_Neutral_4_8_8_8
+                    Avali_Neutral_4_9_9_9
+                    Avali_Neutral_4_10_10_10
+                    Avali_Neutral_5_1_1_1
+                    Avali_Neutral_5_2_2_2
+                    Avali_Neutral_5_3_3_3
+                    Avali_Neutral_5_4_4_4
+                    Avali_Neutral_5_5_5_5
+                    Avali_Neutral_5_6_6_6
+                    Avali_Neutral_5_7_7_7
+                    Avali_Neutral_5_8_8_8
+                    Avali_Neutral_5_9_9_9
+                    Avali_Neutral_5_10_10_10
+                    Avali_Neutral_6_1_1_1
+                    Avali_Neutral_6_2_2_2
+                    Avali_Neutral_6_3_3_3
+                    Avali_Neutral_6_4_4_4
+                    Avali_Neutral_6_5_5_5
+                    Avali_Neutral_6_6_6_6
+                    Avali_Neutral_6_7_7_7
+                    Avali_Neutral_6_8_8_8
+                    Avali_Neutral_6_9_9_9
+                    Avali_Neutral_6_10_10_10
+                    Avali_Female_1_6_4_1
+                    Avali_Female_1_6_4_2
+                    Avali_Female_1_6_4_3
+                    Avali_Female_1_6_4_4
+                    Avali_Female_1_6_4_5
+                    Avali_Female_1_6_4_6
+                    Avali_Female_1_6_4_7
+                    Avali_Female_1_6_4_8
+                    Avali_Female_1_6_4_9
+                    Avali_Female_1_6_4_10
+                    Avali_Female_1_6_4_11
+                    Avali_Female_1_6_4_12
+                    Avali_Female_1_6_4_13
+                    Avali_Female_1_6_4_14
+                    Avali_Female_1_6_4_15
+                    Avali_Female_1_6_4_16
+                    Avali_Female_1_6_4_17
+                    Avali_Female_1_6_4_18
+                    Avali_Female_2_6_4_1
+                    Avali_Female_2_6_4_2
+                    Avali_Female_2_6_4_3
+                    Avali_Female_2_6_4_4
+                    Avali_Female_2_6_4_5
+                    Avali_Female_2_6_4_6
+                    Avali_Female_2_6_4_7
+                    Avali_Female_2_6_4_8
+                    Avali_Female_2_6_4_9
+                    Avali_Female_2_6_4_10
+                    Avali_Female_2_6_4_11
+                    Avali_Female_2_6_4_12
+                    Avali_Female_2_6_4_13
+                    Avali_Female_2_6_4_14
+                    Avali_Female_2_6_4_15
+                    Avali_Female_2_6_4_16
+                    Avali_Female_2_6_4_17
+                    Avali_Female_2_6_4_18
+                    Avali_Female_3_6_4_1
+                    Avali_Female_3_6_4_2
+                    Avali_Female_3_6_4_3
+                    Avali_Female_3_6_4_4
+                    Avali_Female_3_6_4_5
+                    Avali_Female_3_6_4_6
+                    Avali_Female_3_6_4_7
+                    Avali_Female_3_6_4_8
+                    Avali_Female_3_6_4_9
+                    Avali_Female_3_6_4_10
+                    Avali_Female_3_6_4_11
+                    Avali_Female_3_6_4_12
+                    Avali_Female_3_6_4_13
+                    Avali_Female_3_6_4_14
+                    Avali_Female_3_6_4_15
+                    Avali_Female_3_6_4_16
+                    Avali_Female_3_6_4_17
+                    Avali_Female_3_6_4_18
+                    Avali_Female_4_6_4_1
+                    Avali_Female_4_6_4_2
+                    Avali_Female_4_6_4_3
+                    Avali_Female_4_6_4_4
+                    Avali_Female_4_6_4_5
+                    Avali_Female_4_6_4_6
+                    Avali_Female_4_6_4_7
+                    Avali_Female_4_6_4_8
+                    Avali_Female_4_6_4_9
+                    Avali_Female_4_6_4_10
+                    Avali_Female_4_6_4_11
+                    Avali_Female_4_6_4_12
+                    Avali_Female_4_6_4_13
+                    Avali_Female_4_6_4_14
+                    Avali_Female_4_6_4_15
+                    Avali_Female_4_6_4_16
+                    Avali_Female_4_6_4_17
+                    Avali_Female_4_6_4_18
+                    Avali_Female_5_6_4_1
+                    Avali_Female_5_6_4_2
+                    Avali_Female_5_6_4_3
+                    Avali_Female_5_6_4_4
+                    Avali_Female_5_6_4_5
+                    Avali_Female_5_6_4_6
+                    Avali_Female_5_6_4_7
+                    Avali_Female_5_6_4_8
+                    Avali_Female_5_6_4_9
+                    Avali_Female_5_6_4_10
+                    Avali_Female_5_6_4_11
+                    Avali_Female_5_6_4_12
+                    Avali_Female_5_6_4_13
+                    Avali_Female_5_6_4_14
+                    Avali_Female_5_6_4_15
+                    Avali_Female_5_6_4_16
+                    Avali_Female_5_6_4_17
+                    Avali_Female_5_6_4_18
+                    Avali_Female_6_6_4_1
+                    Avali_Female_6_6_4_2
+                    Avali_Female_6_6_4_3
+                    Avali_Female_6_6_4_4
+                    Avali_Female_6_6_4_5
+                    Avali_Female_6_6_4_6
+                    Avali_Female_6_6_4_7
+                    Avali_Female_6_6_4_8
+                    Avali_Female_6_6_4_9
+                    Avali_Female_6_6_4_10
+                    Avali_Female_6_6_4_11
+                    Avali_Female_6_6_4_12
+                    Avali_Female_6_6_4_13
+                    Avali_Female_6_6_4_14
+                    Avali_Female_6_6_4_15
+                    Avali_Female_6_6_4_16
+                    Avali_Female_6_6_4_17
+                    Avali_Female_6_6_4_18
                 }
             }
             add = {
@@ -265,26 +1742,174 @@ portrait_groups = {
                     gender = male
                 }
                 portraits = {
-                    avali01
-                    avali02
-                    avali03
-                    avali04
-                    avali05
-                    avali06
-                    avali07
-                    avali08
-                    avali09
-                    avali10
-                    avali11
-                    avali12
-                    avali13
-                    avali14
-                    avali15
-                    avali16
-                    avali17
-                    avali18
-                    avali19
-                    avali20
+                    Avali_Neutral_1_1_1_1
+                    Avali_Neutral_1_2_2_2
+                    Avali_Neutral_1_3_3_3
+                    Avali_Neutral_1_4_4_4
+                    Avali_Neutral_1_5_5_5
+                    Avali_Neutral_1_6_6_6
+                    Avali_Neutral_1_7_7_7
+                    Avali_Neutral_1_8_8_8
+                    Avali_Neutral_1_9_9_9
+                    Avali_Neutral_1_10_10_10
+                    Avali_Neutral_2_1_1_1
+                    Avali_Neutral_2_2_2_2
+                    Avali_Neutral_2_3_3_3
+                    Avali_Neutral_2_4_4_4
+                    Avali_Neutral_2_5_5_5
+                    Avali_Neutral_2_6_6_6
+                    Avali_Neutral_2_7_7_7
+                    Avali_Neutral_2_8_8_8
+                    Avali_Neutral_2_9_9_9
+                    Avali_Neutral_2_10_10_10
+                    Avali_Neutral_3_1_1_1
+                    Avali_Neutral_3_2_2_2
+                    Avali_Neutral_3_3_3_3
+                    Avali_Neutral_3_4_4_4
+                    Avali_Neutral_3_5_5_5
+                    Avali_Neutral_3_6_6_6
+                    Avali_Neutral_3_7_7_7
+                    Avali_Neutral_3_8_8_8
+                    Avali_Neutral_3_9_9_9
+                    Avali_Neutral_3_10_10_10
+                    Avali_Neutral_4_1_1_1
+                    Avali_Neutral_4_2_2_2
+                    Avali_Neutral_4_3_3_3
+                    Avali_Neutral_4_4_4_4
+                    Avali_Neutral_4_5_5_5
+                    Avali_Neutral_4_6_6_6
+                    Avali_Neutral_4_7_7_7
+                    Avali_Neutral_4_8_8_8
+                    Avali_Neutral_4_9_9_9
+                    Avali_Neutral_4_10_10_10
+                    Avali_Neutral_5_1_1_1
+                    Avali_Neutral_5_2_2_2
+                    Avali_Neutral_5_3_3_3
+                    Avali_Neutral_5_4_4_4
+                    Avali_Neutral_5_5_5_5
+                    Avali_Neutral_5_6_6_6
+                    Avali_Neutral_5_7_7_7
+                    Avali_Neutral_5_8_8_8
+                    Avali_Neutral_5_9_9_9
+                    Avali_Neutral_5_10_10_10
+                    Avali_Neutral_6_1_1_1
+                    Avali_Neutral_6_2_2_2
+                    Avali_Neutral_6_3_3_3
+                    Avali_Neutral_6_4_4_4
+                    Avali_Neutral_6_5_5_5
+                    Avali_Neutral_6_6_6_6
+                    Avali_Neutral_6_7_7_7
+                    Avali_Neutral_6_8_8_8
+                    Avali_Neutral_6_9_9_9
+                    Avali_Neutral_6_10_10_10
+                    Avali_Male_1_6_4_1
+                    Avali_Male_1_6_4_2
+                    Avali_Male_1_6_4_3
+                    Avali_Male_1_6_4_4
+                    Avali_Male_1_6_4_5
+                    Avali_Male_1_6_4_6
+                    Avali_Male_1_6_4_7
+                    Avali_Male_1_6_4_8
+                    Avali_Male_1_6_4_9
+                    Avali_Male_1_6_4_10
+                    Avali_Male_1_6_4_11
+                    Avali_Male_1_6_4_12
+                    Avali_Male_1_6_4_13
+                    Avali_Male_1_6_4_14
+                    Avali_Male_1_6_4_15
+                    Avali_Male_1_6_4_16
+                    Avali_Male_1_6_4_17
+                    Avali_Male_1_6_4_18
+                    Avali_Male_2_6_4_1
+                    Avali_Male_2_6_4_2
+                    Avali_Male_2_6_4_3
+                    Avali_Male_2_6_4_4
+                    Avali_Male_2_6_4_5
+                    Avali_Male_2_6_4_6
+                    Avali_Male_2_6_4_7
+                    Avali_Male_2_6_4_8
+                    Avali_Male_2_6_4_9
+                    Avali_Male_2_6_4_10
+                    Avali_Male_2_6_4_11
+                    Avali_Male_2_6_4_12
+                    Avali_Male_2_6_4_13
+                    Avali_Male_2_6_4_14
+                    Avali_Male_2_6_4_15
+                    Avali_Male_2_6_4_16
+                    Avali_Male_2_6_4_17
+                    Avali_Male_2_6_4_18
+                    Avali_Male_3_6_4_1
+                    Avali_Male_3_6_4_2
+                    Avali_Male_3_6_4_3
+                    Avali_Male_3_6_4_4
+                    Avali_Male_3_6_4_5
+                    Avali_Male_3_6_4_6
+                    Avali_Male_3_6_4_7
+                    Avali_Male_3_6_4_8
+                    Avali_Male_3_6_4_9
+                    Avali_Male_3_6_4_10
+                    Avali_Male_3_6_4_11
+                    Avali_Male_3_6_4_12
+                    Avali_Male_3_6_4_13
+                    Avali_Male_3_6_4_14
+                    Avali_Male_3_6_4_15
+                    Avali_Male_3_6_4_16
+                    Avali_Male_3_6_4_17
+                    Avali_Male_3_6_4_18
+                    Avali_Male_4_6_4_1
+                    Avali_Male_4_6_4_2
+                    Avali_Male_4_6_4_3
+                    Avali_Male_4_6_4_4
+                    Avali_Male_4_6_4_5
+                    Avali_Male_4_6_4_6
+                    Avali_Male_4_6_4_7
+                    Avali_Male_4_6_4_8
+                    Avali_Male_4_6_4_9
+                    Avali_Male_4_6_4_10
+                    Avali_Male_4_6_4_11
+                    Avali_Male_4_6_4_12
+                    Avali_Male_4_6_4_13
+                    Avali_Male_4_6_4_14
+                    Avali_Male_4_6_4_15
+                    Avali_Male_4_6_4_16
+                    Avali_Male_4_6_4_17
+                    Avali_Male_4_6_4_18
+                    Avali_Male_5_6_4_1
+                    Avali_Male_5_6_4_2
+                    Avali_Male_5_6_4_3
+                    Avali_Male_5_6_4_4
+                    Avali_Male_5_6_4_5
+                    Avali_Male_5_6_4_6
+                    Avali_Male_5_6_4_7
+                    Avali_Male_5_6_4_8
+                    Avali_Male_5_6_4_9
+                    Avali_Male_5_6_4_10
+                    Avali_Male_5_6_4_11
+                    Avali_Male_5_6_4_12
+                    Avali_Male_5_6_4_13
+                    Avali_Male_5_6_4_14
+                    Avali_Male_5_6_4_15
+                    Avali_Male_5_6_4_16
+                    Avali_Male_5_6_4_17
+                    Avali_Male_5_6_4_18
+                    Avali_Male_6_6_4_1
+                    Avali_Male_6_6_4_2
+                    Avali_Male_6_6_4_3
+                    Avali_Male_6_6_4_4
+                    Avali_Male_6_6_4_5
+                    Avali_Male_6_6_4_6
+                    Avali_Male_6_6_4_7
+                    Avali_Male_6_6_4_8
+                    Avali_Male_6_6_4_9
+                    Avali_Male_6_6_4_10
+                    Avali_Male_6_6_4_11
+                    Avali_Male_6_6_4_12
+                    Avali_Male_6_6_4_13
+                    Avali_Male_6_6_4_14
+                    Avali_Male_6_6_4_15
+                    Avali_Male_6_6_4_16
+                    Avali_Male_6_6_4_17
+                    Avali_Male_6_6_4_18
                 }
             }
         }
