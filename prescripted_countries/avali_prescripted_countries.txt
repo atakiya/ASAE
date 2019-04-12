@@ -37,8 +37,8 @@ avali_illuminate = {
   
   empire_flag = {
     icon= {
-      category = "avu_avali"
-      file = "avaliemblem.dds"
+      category = "Avali"
+      file = "Avali.dds"
     }
     background = {
       category = "backgrounds"
@@ -55,7 +55,7 @@ avali_illuminate = {
   ruler = {
     name = "PRESCRIPTED_ruler_name_avali_illuminate"
     gender = male
-    portrait = "avali08"
+    portrait = "Avali_Female_5_6_4_13"
     texture = 0
     hair = 0
     clothes = 0
@@ -103,8 +103,8 @@ avali_independent = {
   
   empire_flag = {
     icon= {
-      category = "avu_avali"
-      file = "avaliemblem.dds"
+      category = "Avali"
+      file = "Avali.dds"
     }
     background= {
       category = "backgrounds"
@@ -121,7 +121,7 @@ avali_independent = {
   ruler = {
     name = "PRESCRIPTED_ruler_name_avali_independent"
     gender = male
-    portrait = "avali08"
+    portrait = "Avali_Neutral_4_9_9_9"
     texture = 0
     hair = 0
     clothes = 0
