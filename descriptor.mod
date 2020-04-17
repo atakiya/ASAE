@@ -8,4 +8,4 @@ tags={
 }
 picture="cover.png"
 remote_file_id="1706407663"
-supported_version="2.3.*"
+supported_version="2.6.*"
