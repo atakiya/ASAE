@@ -26,6 +26,8 @@ avali_illuminate = {
   
   ethic = "ethic_xenophobe"
   ethic = "ethic_fanatic_materialist"
+	
+  origin = "origin_default"
   
   planet_name = "PRESCRIPTED_planet_name_avali_illuminate"
   planet_class = "pc_arctic"
@@ -93,6 +95,8 @@ avali_independent = {
   ethic="ethic_xenophile"
   ethic="ethic_militarist"
   ethic="ethic_materialist"
+	
+  origin = "origin_default"
   
   planet_name = "PRESCRIPTED_planet_name_avali_independent"
   planet_class = "pc_arctic"
