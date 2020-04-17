@@ -47,6 +47,10 @@ Content from commits [`efca54e`](https://github.com/Avunia/stellaris-ASAE/commit
 
 ## Credits
 
+- ### Coding and Maintenance
+  
+  Avunia & RambleTheWolf
+
 - ### Avali portraits  
   
   kindly provided by [Blackhole32](https://www.deviantart.com/blackhole32)  
